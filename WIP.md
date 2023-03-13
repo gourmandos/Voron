@@ -2,6 +2,7 @@
 
 
 ## Physical mods
+
 Inverted electronics
 Air circulation / filtration
 DB / Sherpa or Vextrudort
@@ -12,8 +13,17 @@ Purge bucket / scrubber
 Eureka
 Chamber thermistor
 K3 Door
-Skirt buttons
 Panel clips
 LED
+Sensorless homing
+Corner brace
 
- 
+## Electronics
+
+Pi SSD/WLAN
+Extrusion role for fast infill
+Config autobackup
+Nevermore if ABS...
+Heatsoak macro
+Skirt buttons (light 30% to 100%, up/down babystep, momentary ON/OFF = pi off?)
+

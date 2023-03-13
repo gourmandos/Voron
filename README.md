@@ -42,6 +42,8 @@ https://github.com/3DPrintingMods/VoronTrident-Sidepack
 
 ### Filter
 https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL
+WITH: https://drive.google.com/drive/folders/1Z5R5iSrDxx-fSL647MQqjwC_a0YF4xba
+ALTERNATIVES:
 https://github.com/Annex-Engineering/Rebreather
 https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER
 https://github.com/yasuoki/ActivatedCarbonFilter7530
@@ -82,4 +84,14 @@ https://github.com/RomRider/klipper-FastGyroidInfill
 ### Easy Sensorless homing
 https://github.com/kyleisah/EZ-Sensorless-Homing
 
+### PA per nozzle
+; Set pressure advance per-filament for different nozzle sizes
+{if nozzle_diameter[0]==0.4}SET_PRESSURE_ADVANCE ADVANCE=0.04  SMOOTH_TIME=0.02
+{elsif nozzle_diameter[0]==0.5}SET_PRESSURE_ADVANCE ADVANCE=0.03 SMOOTH_TIME=0.02
+{elsif nozzle_diameter[0]==0.6}SET_PRESSURE_ADVANCE ADVANCE=0.01  SMOOTH_TIME=0.02
+{elsif nozzle_diameter[0]==0.8}SET_PRESSURE_ADVANCE ADVANCE=0.01 SMOOTH_TIME=0.02
+{endif}
+
+## Extrusion roles - Fast Infill
+https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276
 
