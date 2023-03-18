@@ -55,6 +55,17 @@ https://www.thingiverse.com/thing:4332963
 ### GoopPenClip
 https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip
 
+## Electronics
+
+### Octopus Pro Guide
+https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-octopus-guides/btt-octopus-pro-guide/
+
+### Octopus PinOut
+![BTT Octopus Pro Pins](https://github.com/gourmandos/VoronTrident300/blob/main/images/btt_octopus_pro_1.0_pins.png?raw=true)
+https://teamgloomy.github.io/btt_octopus_pro_1.0_f429_pins.html
+
+### Octopus Firmware Flashing
+https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octopus_klipper.md
 
 
 ## Pi Stuff
@@ -92,6 +103,9 @@ https://github.com/kyleisah/EZ-Sensorless-Homing
 {elsif nozzle_diameter[0]==0.8}SET_PRESSURE_ADVANCE ADVANCE=0.01 SMOOTH_TIME=0.02
 {endif}
 
-## Extrusion roles - Fast Infill
+### Extrusion roles - Fast Infill
 https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276
+
+### Chamber Temperature & Exhaust Fan
+https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/chamber_temperature_exhaust_fan.md
 
