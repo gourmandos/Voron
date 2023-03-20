@@ -2,8 +2,14 @@
 ...
 # 
 ...
-## Mods
+## Things to print
 
+Visit the folder [stl-3mf](/stl-3mf)
+[Moroday Cutting Jigs](https://drive.google.com/drive/folders/1XE-0ez0jTqmz-vkzLz3cSLpAuZJ_NZnz)
+
+
+
+## Mods
 
 ###
 
@@ -108,4 +114,7 @@ https://discord.com/channels/712144492563791922/712144816707731456/1080119195158
 
 ### Chamber Temperature & Exhaust Fan
 https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/chamber_temperature_exhaust_fan.md
+
+## Yet to be understood
+https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version
 
