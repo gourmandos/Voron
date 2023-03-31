@@ -5,19 +5,36 @@
 ## Things to print
 
 Visit the folder [stl-3mf](/stl-3mf)
+
 [Moroday Cutting Jigs](https://drive.google.com/drive/folders/1XE-0ez0jTqmz-vkzLz3cSLpAuZJ_NZnz)
+
+[V2.4 Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Test_Prints)
+
+https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips
+
+https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket
+
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62
+
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch
 
 
 
 ## Mods
 
+### 0.9 Motors (combine with 25 teeth pulleys)
+https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926
+
 ###
 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover
+https://mods.vorondesign.com/detail/sChDLllFG34KYroxSym6MQ
 
-### K3 Door
+
+###  Doors
 https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
 
 ### Purge & Scrub
 In combination:
@@ -35,6 +52,10 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/lrs
 
 ### Skirts
 https://www.youtube.com/watch?v=K6sHfXldK4k
+https://www.teamfdm.com/files/file/358-adxl345-skirt-keystone/
+
+### Handles
+https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
 
 ### LEDs
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl
@@ -42,6 +63,13 @@ https://github.com/Ramalama2/Voron-2-Mods/tree/main/Deprecated/Misumi_Led_Corner
 
 ### Doomy ETC
 https://github.com/3DPrintingMods/VoronTrident-Sidepack
+
+### Smart Filament Sensor
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS
+
+
+### Temp control
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans
 
 
 ## Accessories
@@ -84,6 +112,8 @@ https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-
 
 ### Config MB
 https://github.com/Susheii/VT.577_Config
+https://github.com/MakerBogans/KlipperConfig/tree/master/Verethy/VT-627
+ 
 
 ### Klipper Estimator
 https://github.com/Annex-Engineering/klipper_estimator
@@ -100,6 +130,7 @@ https://github.com/RomRider/klipper-FastGyroidInfill
 
 ### Easy Sensorless homing
 https://github.com/kyleisah/EZ-Sensorless-Homing
+https://www.klipper3d.org/TMC_Drivers.html#configure-printercfg-for-sensorless-homing
 
 ### PA per nozzle
 ; Set pressure advance per-filament for different nozzle sizes
@@ -114,6 +145,15 @@ https://discord.com/channels/712144492563791922/712144816707731456/1080119195158
 
 ### Chamber Temperature & Exhaust Fan
 https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/chamber_temperature_exhaust_fan.md
+
+### Advance resonance tuning
+https://github.com/SnakeOilXY/SnakeOil-XY/blob/master/Doc/Manual/advance-resonance-tuning.md
+
+### FlowCalculator macros
+https://github.com/agentk/klipper_macros/tree/main/FlowCalculator
+
+### Extrusion system Benchmark
+https://github.com/CNCKitchen/ExtrusionSystemBenchmark
 
 ## Yet to be understood
 https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version
