@@ -30,7 +30,7 @@ https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/m
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover
 https://mods.vorondesign.com/detail/sChDLllFG34KYroxSym6MQ
-
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
 
 ###  Doors
 https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door
@@ -45,6 +45,9 @@ In combination:
 https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges
 OR 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020
+
+### Insulation support clips
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips
 
 ### Electronic bay
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket - TO BE MODIFED
@@ -66,7 +69,8 @@ https://github.com/3DPrintingMods/VoronTrident-Sidepack
 
 ### Smart Filament Sensor
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS
-
+https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount
+https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount
 
 ### Temp control
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans
@@ -81,6 +85,7 @@ ALTERNATIVES:
 https://github.com/Annex-Engineering/Rebreather
 https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER
 https://github.com/yasuoki/ActivatedCarbonFilter7530
+https://github.com/thomas-ewing/trident-shaft
 
 ### Nozzle torque wrench
 https://www.thingiverse.com/thing:4738816
