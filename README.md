@@ -1,10 +1,14 @@
 # VoronTrident300
-...
-# 
-...
-## Things to print
 
-Visit the folder [stl-3mf](/stl-3mf)
+
+## [stl-3mf](/stl-3mf)
+
+| [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | ![Tension_Meter](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png) |
+| Paragraph | Text |
+
+### Additional
+
+Table with images ?
 
 [Moroday Cutting Jigs](https://drive.google.com/drive/folders/1XE-0ez0jTqmz-vkzLz3cSLpAuZJ_NZnz)
 
@@ -12,13 +16,13 @@ Visit the folder [stl-3mf](/stl-3mf)
 
 [V2.4 Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Test_Prints)
 
-https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips
+[Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
 
-https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket
+[Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62
+[AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch
+[AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
 
 ## Mods
 
@@ -31,6 +35,8 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_F
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover
 https://mods.vorondesign.com/detail/sChDLllFG34KYroxSym6MQ
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
+https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter
 
 ###  Doors
 https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door
@@ -52,6 +58,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_
 ### Electronic bay
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket - TO BE MODIFED
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/lrs_screw_terminal_cover
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/aeresov/cable_tie_DIN_mount
 
 ### Skirts
 https://www.youtube.com/watch?v=K6sHfXldK4k
