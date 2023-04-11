@@ -3,7 +3,9 @@
 
 ## [stl-3mf](/stl-3mf)
 
-| [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | ![Tension_Meter](<img src="https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png" width="300" height="300">) |
+| Syntax | Description |
+| --- | ----------- |
+| [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | <img src="https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png" width="300" height="300"> |
 | Paragraph | Text |
 
 ### Additional
