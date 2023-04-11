@@ -5,7 +5,7 @@
 
 | Syntax | Description |
 | --- | ----------- |
-| [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | <img src="https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png" width="300" height="300"> |
+| [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | <img src="https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png" width="30%" height="30%"> |
 | Paragraph | Text |
 
 ### Additional
