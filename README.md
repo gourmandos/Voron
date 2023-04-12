@@ -1,7 +1,15 @@
-# VoronTrident300
+# WIP
+
+This is a collection of mods and info that I used for 
+Most aren't necessary AT ALL !
+
+## Things to print
+
+[STL-3MF collection](/stl-3mf)
 
 
-## [Things to print](/stl-3mf)
+
+
 
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
 
@@ -11,7 +19,7 @@
 
 [Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
 
-[Moroday Cutting Jigs](https://drive.google.com/drive/folders/1XE-0ez0jTqmz-vkzLz3cSLpAuZJ_NZnz)
+[Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)
 
 [Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
 
@@ -33,11 +41,18 @@ To be combined with [25 teeth pulleys (5mm bore / 6mm belt)](https://www.aliexpr
 
 [Exhaust cover with pneumatic passthrough](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
 
+[LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf) 
+Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
+
 ### Doors
 
 [K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
 
 [270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
+
+### Frame reinforcement
+
+[Y Support](/stl-3mf/Y%20support/)
 
 ### Purge & Scrub
 
@@ -55,12 +70,21 @@ To be used in combination:
 
 ### Insulation support clips
 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips
+Used to hold insulation inside against the PC panels
+[Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
 ### Electronic bay
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket - TO BE MODIFED
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/lrs_screw_terminal_cover
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/aeresov/cable_tie_DIN_mount
+
+[Trident Inverted Electronics Bay](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/TridentInvertedElectronics)
+
+[SSD DIN mount](/stl-3mf/SSD%20DIN%20mount/)
+Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket)
+
+[Pi fan with SSD mount](https://www.printables.com/model/225282-the-terrapi-x-prusa-edition-single-ssd-case-for-ra)
+
+[Screw terminal cover for LRS PSU](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/lrs_screw_terminal_cover)
+
+[Cable tie mount for DIN rail](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/aeresov/cable_tie_DIN_mount)
 
 ### Skirts
 https://www.youtube.com/watch?v=K6sHfXldK4k
