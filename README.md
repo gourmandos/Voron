@@ -6,7 +6,6 @@
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
 
 
-|  |  |
 | --- | --- |
 | [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | <img src="https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png" width="30%" height="30%"> |
 | Paragraph | Text |
