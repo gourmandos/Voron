@@ -19,7 +19,8 @@ Most aren't necessary AT ALL !
 
 [Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
 
-[Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)
+[Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)  
+Credits @
 
 [Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
 
@@ -51,13 +52,15 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 ### Frame reinforcement
 
-[Y Support](/stl-3mf/Y%20support/)
+[Y Support](/stl-3mf/Y%20support/)  
+Credits @
 
 ### Purge & Scrub
 
 To be used in combination:
 
-[Double wiper decontaminator](https://drive.google.com/drive/u/0/folders/1z-9KpVIce1BrdW45PiMQcnK1v2ausvbj)
+[Double wiper decontaminator](https://drive.google.com/drive/u/0/folders/1z-9KpVIce1BrdW45PiMQcnK1v2ausvbj)  
+Credits @
 
 [Trident decontaminator mount](https://www.teamfdm.com/files/file/617-trident-decontaminator_mount_rightstl/)
 
