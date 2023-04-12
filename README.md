@@ -1,10 +1,13 @@
 # VoronTrident300
 
 
-## [stl-3mf](/stl-3mf)
+## [Things to print](/stl-3mf)
 
-| Syntax | Description |
-| --- | ----------- |
+[Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
+
+
+|  |  |
+| --- | --- |
 | [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | <img src="https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png" width="30%" height="30%"> |
 | Paragraph | Text |
 | Paragraph | Text |
@@ -28,7 +31,7 @@ Table with images ?
 
 [AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
 
-[AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
+[Trident Right Skirt Switch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
 
 ## Mods
 
@@ -45,7 +48,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic
 https://mods.vorondesign.com/detail/sChDLllFG34KYroxSym6MQ
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
 https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter
+
 
 ###  Doors
 
