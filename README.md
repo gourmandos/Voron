@@ -64,6 +64,9 @@ Credits @
 
 [Trident decontaminator mount](https://www.teamfdm.com/files/file/617-trident-decontaminator_mount_rightstl/)
 
+Macros:  
+https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber/Macros
+
 ### Panel Clips
  
 [Snap latches 2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
@@ -93,6 +96,7 @@ Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/m
 https://www.youtube.com/watch?v=K6sHfXldK4k
 https://www.teamfdm.com/files/file/358-adxl345-skirt-keystone/
 [Trident Right Skirt Switch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
+https://github.com/Jaans/Voron-Printer-Mods/tree/main/Bouncy-Mouse
 
 ### Handles
 https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
@@ -110,6 +114,10 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhau
 https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount
 https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
+
+### Internal spool
+
+https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/
 
 
 ### Temp control
