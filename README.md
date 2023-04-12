@@ -1,6 +1,7 @@
 # WIP
 
 This is a collection of mods and info that I used for 
+
 Most aren't necessary AT ALL !
 
 ## Things to print
@@ -12,19 +13,19 @@ Most aren't necessary AT ALL !
 
 
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
-
+;NBSP 
 [Bridging test](https://www.thingiverse.com/thing:476845)
-
+;NBSP 
 [V2.4 Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Test_Prints)
-
+;NBSP 
 [Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
-
+;NBSP 
 [Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)
-
+;NBSP 
 [Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
-
+;NBSP 
 [AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
-
+;NBSP 
 [2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
 
 ## Mods
@@ -41,7 +42,8 @@ To be combined with [25 teeth pulleys (5mm bore / 6mm belt)](https://www.aliexpr
 
 [Exhaust cover with pneumatic passthrough](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
 
-[LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf) 
+[LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf)
+
 Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
 
 ### Doors
@@ -78,6 +80,7 @@ Used to hold insulation inside against the PC panels
 [Trident Inverted Electronics Bay](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/TridentInvertedElectronics)
 
 [SSD DIN mount](/stl-3mf/SSD%20DIN%20mount/)
+
 Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket)
 
 [Pi fan with SSD mount](https://www.printables.com/model/225282-the-terrapi-x-prusa-edition-single-ssd-case-for-ra)
