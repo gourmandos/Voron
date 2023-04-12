@@ -5,32 +5,19 @@
 
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
 
-
-| --- | --- |
-| [cable_tie_DIN_mount](/stl-3mf/cable_tie_DIN_mount.stl) | <img src="https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png" width="30%" height="30%"> |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-| Paragraph | Text |
-
-### Additional
-
-Table with images ?
-
-[Moroday Cutting Jigs](https://drive.google.com/drive/folders/1XE-0ez0jTqmz-vkzLz3cSLpAuZJ_NZnz)
-
 [Bridging test](https://www.thingiverse.com/thing:476845)
 
 [V2.4 Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Test_Prints)
 
-[Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
-
 [Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
+
+[Moroday Cutting Jigs](https://drive.google.com/drive/folders/1XE-0ez0jTqmz-vkzLz3cSLpAuZJ_NZnz)
+
+[Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
 
 [AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
 
-[Trident Right Skirt Switch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
+[2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
 
 ## Mods
 
@@ -40,32 +27,34 @@ Table with images ?
 
 To be combined with [25 teeth pulleys (5mm bore / 6mm belt)](https://www.aliexpress.com/item/32994584651.html)
 
-###
+### Back panel exhaust
 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover
-https://mods.vorondesign.com/detail/sChDLllFG34KYroxSym6MQ
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover
-https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/
+[Magnetic Exhaust Grill Cover](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover)
 
+[Exhaust cover with pneumatic passthrough](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
 
-###  Doors
+### Doors
 
 [K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
 
 [270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
 
 ### Purge & Scrub
-In combination:
-- https://www.teamfdm.com/files/file/617-trident-decontaminator_mount_rightstl/
-- Double Wiper Decontaminator (Trident 300mm) https://drive.google.com/drive/u/0/folders/1z-9KpVIce1BrdW45PiMQcnK1v2ausvbj
+
+To be used in combination:
+
+[Double wiper decontaminator](https://drive.google.com/drive/u/0/folders/1z-9KpVIce1BrdW45PiMQcnK1v2ausvbj)
+
+[Trident decontaminator mount](https://www.teamfdm.com/files/file/617-trident-decontaminator_mount_rightstl/)
 
 ### Panel Clips
-https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges
-OR 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020
+ 
+[Snap latches 2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
+
+[Annex 2020 panel clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
 
 ### Insulation support clips
+
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips
 
 ### Electronic bay
@@ -76,9 +65,11 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/aeresov/cable
 ### Skirts
 https://www.youtube.com/watch?v=K6sHfXldK4k
 https://www.teamfdm.com/files/file/358-adxl345-skirt-keystone/
+[Trident Right Skirt Switch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
 
 ### Handles
 https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
+Voron 2.2
 
 ### LEDs
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl
@@ -91,6 +82,8 @@ https://github.com/3DPrintingMods/VoronTrident-Sidepack
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS
 https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount
 https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
+
 
 ### Temp control
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans
