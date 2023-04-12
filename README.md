@@ -1,7 +1,6 @@
 # WIP
 
-This is a collection of mods and info that I used for 
-
+This is a collection of mods and info that I used for  
 Most aren't necessary AT ALL !
 
 ## Things to print
@@ -32,8 +31,7 @@ Most aren't necessary AT ALL !
 
 ### 0.9 Motors AB
 
-[Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or [AliExpress Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)
-
+[Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or [AliExpress Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)  
 To be combined with [25 teeth pulleys (5mm bore / 6mm belt)](https://www.aliexpress.com/item/32994584651.html)
 
 ### Back panel exhaust
@@ -71,7 +69,7 @@ To be used in combination:
 
 ### Insulation support clips
 
-Used to hold insulation inside against the PC panels
+Used to hold insulation inside against the PC panels  
 [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
 ### Electronic bay
