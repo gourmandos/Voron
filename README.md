@@ -1,11 +1,9 @@
 # WIP
 
-This is a collection of mods and info used for planning/completing my built.
+This is a collection of mods and info used for planning/completing my built.  
 Most aren't necessary AT ALL !
 
 ## Things to print
-
-[STL-3MF collection](/stl-3mf)
 
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
 
@@ -29,6 +27,7 @@ Necessary if upgrading the extruder to [DirtyBird](https://github.com/MakerBogan
 
 ### 0.9 Motors AB
 
+VFAs management  
 [Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or [AliExpress Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)  
 To be combined with [25 teeth pulleys (5mm bore / 6mm belt)](https://www.aliexpress.com/item/32994584651.html)
 
@@ -47,7 +46,7 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 [270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
 
-[v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
+[Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
 
 ### Frame reinforcement
 
@@ -78,7 +77,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods
 
 ### Insulation support clips
 
-Used to hold insulation inside against the PC panels  
+Used to hold insulation inside against the PC panels  - Experiimental/untested !!!  
 [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
 ### Electronic bay
@@ -144,13 +143,17 @@ https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowd
 ## Accessories
 
 ### Filter
-https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL
+
+[Rebreather_XL](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL)  
 WITH: https://drive.google.com/drive/folders/1Z5R5iSrDxx-fSL647MQqjwC_a0YF4xba
-ALTERNATIVES:
-https://github.com/Annex-Engineering/Rebreather
-https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER
-https://github.com/yasuoki/ActivatedCarbonFilter7530
-https://github.com/thomas-ewing/trident-shaft
+
+[Rebreather](https://github.com/Annex-Engineering/Rebreather)
+
+[The_Filter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
+
+[Activated Carbon Filter 7530](https://github.com/yasuoki/ActivatedCarbonFilter7530)
+
+[Trident shaft](https://github.com/thomas-ewing/trident-shaft)
 
 ### Nozzle torque wrench
 https://www.thingiverse.com/thing:4738816
