@@ -1,15 +1,11 @@
 # WIP
 
-This is a collection of mods and info that I used for  
+This is a collection of mods and info used for planning/completing my built.
 Most aren't necessary AT ALL !
 
 ## Things to print
 
 [STL-3MF collection](/stl-3mf)
-
-
-
-
 
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
 
@@ -22,13 +18,14 @@ Most aren't necessary AT ALL !
 [Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)  
 Credits @
 
-[Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
-
-[AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
-
 [2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
 
 ## Mods
+
+### Rama idlers
+
+[Front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)  
+Necessary if upgrading the extruder to [DirtyBird](https://github.com/MakerBogans/dirtybird/)
 
 ### 0.9 Motors AB
 
@@ -49,6 +46,8 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 [K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
 
 [270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
+
+[v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
 
 ### Frame reinforcement
 
@@ -73,6 +72,10 @@ https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods
 
 [Annex 2020 panel clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
 
+### Handles
+
+[Sturdy handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
+
 ### Insulation support clips
 
 Used to hold insulation inside against the PC panels  
@@ -82,8 +85,7 @@ Used to hold insulation inside against the PC panels
 
 [Trident Inverted Electronics Bay](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/TridentInvertedElectronics)
 
-[SSD DIN mount](/stl-3mf/SSD%20DIN%20mount/)
-
+[SSD DIN mount](/stl-3mf/SSD%20DIN%20mount/)  
 Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket)
 
 [Pi fan with SSD mount](https://www.printables.com/model/225282-the-terrapi-x-prusa-edition-single-ssd-case-for-ra)
@@ -92,22 +94,36 @@ Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/m
 
 [Cable tie mount for DIN rail](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/aeresov/cable_tie_DIN_mount)
 
-### Skirts
-https://www.youtube.com/watch?v=K6sHfXldK4k
-https://www.teamfdm.com/files/file/358-adxl345-skirt-keystone/
-[Trident Right Skirt Switch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
-https://github.com/Jaans/Voron-Printer-Mods/tree/main/Bouncy-Mouse
+[Cable tie double-sided tape anchor](/stl-3mf/Ziptie%20DS-tape%20cable%20anchor.3mf)
 
-### Handles
-https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
-Voron 2.2
+[Stiffer generic DIN bracket](https://github.com/Ramalama2/Voron-2-Mods/tree/main/DinClips)
+
+[AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
+
+### Skirts
+
+[Integrated accent mesh](https://www.youtube.com/watch?v=K6sHfXldK4k)
+
+[ADXL keystone](https://www.teamfdm.com/files/file/358-adxl345-skirt-keystone/)
+
+[Trident right skirt switch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
+
+[Skirt push buttons - *Bouncy Mouse*](https://github.com/Jaans/Voron-Printer-Mods/tree/main/Bouncy-Mouse)
 
 ### LEDs
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl
 https://github.com/Ramalama2/Voron-2-Mods/tree/main/Deprecated/Misumi_Led_Corners
+https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_light_bar_mount_a_x1_Rev1.STL
 
-### Doomy ETC
-https://github.com/3DPrintingMods/VoronTrident-Sidepack
+### Doomy
+
+[Sidepack](https://github.com/3DPrintingMods/VoronTrident-Sidepack)
+
+[EZ Bake](https://github.com/FrankenVoron/Trident-EZBake)
+
+### Belted Z
+
+[Orion Tri-belt](https://github.com/bythorsthunder/Orion-Tri-Belt)
 
 ### Smart Filament Sensor
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS
@@ -119,10 +135,11 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_F
 
 https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/
 
-
 ### Temp control
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans
 
+[Thermistor mount 2020](https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw)
+
+[Trident Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 
 ## Accessories
 
