@@ -14,7 +14,8 @@ Most aren't necessary AT ALL !
 [Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
 
 [Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)  
-Credits @
+Works with Moroday EconoSeal and MultiSeal products (Bunnings)  
+Credits @jdndm#3948 on Discord
 
 [2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
 
@@ -51,14 +52,14 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 ### Frame reinforcement
 
 [Y Support](/stl-3mf/Y%20support/)  
-Credits @
+Credits @karlOS#2150 and @awolf_alone#3888 on Discord
 
 ### Purge & Scrub
 
 To be used in combination:
 
 [Double wiper decontaminator](https://drive.google.com/drive/u/0/folders/1z-9KpVIce1BrdW45PiMQcnK1v2ausvbj)  
-Credits @
+Credits @Sushei#3125 on Discord
 
 [Trident decontaminator mount](https://www.teamfdm.com/files/file/617-trident-decontaminator_mount_rightstl/)
 
@@ -77,7 +78,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods
 
 ### Insulation support clips
 
-Used to hold insulation inside against the PC panels  - Experiimental/untested !!!  
+Used to hold insulation on the inside against the PC panels  UNTESTED !!!
 [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
 ### Electronic bay
@@ -110,8 +111,13 @@ Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/m
 [Skirt push buttons - *Bouncy Mouse*](https://github.com/Jaans/Voron-Printer-Mods/tree/main/Bouncy-Mouse)
 
 ### LEDs
+
+[Daylight bracket 2020](https://github.com/VoronDesign/Voron-Hardware/blob/master/Daylight/STL/Brackets_2020.stl)
+
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl
+
 https://github.com/Ramalama2/Voron-2-Mods/tree/main/Deprecated/Misumi_Led_Corners
+
 https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_light_bar_mount_a_x1_Rev1.STL
 
 ### Doomy
@@ -125,9 +131,15 @@ https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_ligh
 [Orion Tri-belt](https://github.com/bythorsthunder/Orion-Tri-Belt)
 
 ### Smart Filament Sensor
+
+Set the sensitivity to 10 minimum
+
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS
+
 https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount
+
 https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount
+
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
 
 ### Internal spool
@@ -154,6 +166,8 @@ WITH: https://drive.google.com/drive/folders/1Z5R5iSrDxx-fSL647MQqjwC_a0YF4xba
 [Activated Carbon Filter 7530](https://github.com/yasuoki/ActivatedCarbonFilter7530)
 
 [Trident shaft](https://github.com/thomas-ewing/trident-shaft)
+
+[Evermore](https://github.com/TodWulff/Evermore-Chamber-Filter)
 
 ### Nozzle torque wrench
 https://www.thingiverse.com/thing:4738816
@@ -183,17 +197,22 @@ https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-
 
 ## Config Stuff
 
-### Config MB
-https://github.com/Susheii/VT.577_Config
-https://github.com/MakerBogans/KlipperConfig/tree/master/Verethy/VT-627
+### Config Trident MakerBogans
+
+[Susheii](https://github.com/Susheii/VT.577_Config)
+[Verethy](https://github.com/MakerBogans/KlipperConfig/tree/master/Verethy/VT-627)
  
+### LED
+
+[Rainbow barf logo for SB](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
 
 ### Klipper Estimator
-https://github.com/Annex-Engineering/klipper_estimator
+
+[Klipper estimator](https://github.com/Annex-Engineering/klipper_estimator)
 
 ### Adaptive Bedmesh
 https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md
-https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
+[KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
 ### SS PLA Profile example
 https://gist.githubusercontent.com/cmidgley/d6bb5e894def0794fa3e1f154e794aaa/raw/723e58910d8efdbd86f0f36f43d770f766422ba4/Voron%252024%2520SuperSlicer.ini
@@ -230,4 +249,6 @@ https://github.com/CNCKitchen/ExtrusionSystemBenchmark
 
 ## Yet to be understood
 https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version
+
+## $$$
 
