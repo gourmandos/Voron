@@ -1,7 +1,7 @@
 # WIP
 
 This is a collection of mods and info used for planning/completing my built.  
-Most aren't necessary AT ALL !
+Use at your own risk !!!
 
 ## Things to print
 
@@ -134,9 +134,9 @@ https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_ligh
 
 Set the sensitivity to 10 minimum
 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS
+[Exhaust cover and BTT Smart Filament Sensor mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS)
 
-https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount
+[BTT Smart Filament Sensor frame mount](https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount)
 
 https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount
 
