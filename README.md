@@ -19,6 +19,11 @@ Credits @jdndm#3948 on Discord
 
 [2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
 
+[PTFE tube guide](https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide)  
+[PTFE tube guide](https://github.com/GalvanicGlaze/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide)  
+[PTFE tube guide](https://cad.onshape.com/documents/5770d51745b737d0fa74be61/w/74e7fef81f5ea0f40880c689/e/c30778111a478fbae0a4fc2b)
+
+
 ## Mods
 
 ### Rama idlers
@@ -119,6 +124,8 @@ https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar
 https://github.com/Ramalama2/Voron-2-Mods/tree/main/Deprecated/Misumi_Led_Corners
 
 https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_light_bar_mount_a_x1_Rev1.STL
+
+[Rainbow BARF SB logo](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
 
 ### Doomy
 
@@ -223,6 +230,7 @@ https://github.com/RomRider/klipper-FastGyroidInfill
 ### Easy Sensorless homing
 https://github.com/kyleisah/EZ-Sensorless-Homing
 https://www.klipper3d.org/TMC_Drivers.html#configure-printercfg-for-sensorless-homing
+https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 
 ### PA per nozzle
 ; Set pressure advance per-filament for different nozzle sizes
@@ -252,3 +260,8 @@ https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Ve
 
 ## $$$
 
+### Cable Management
+
+[Rigid Open Slotted Cable Duct ](https://www.tradezone.com.au/product/nhp-25mm-x-30mm-x-2-metres-rigid-open-slotted-cable-duct-21104.html)
+
+[RaspPi camera cable](https://core-electronics.com.au/flex-cable-for-raspberry-pi-camera-300mm-12.html)
