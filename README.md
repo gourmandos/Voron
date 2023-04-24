@@ -24,6 +24,11 @@ Credits @jdndm#3948 on Discord
 [PTFE tube guide](https://cad.onshape.com/documents/5770d51745b737d0fa74be61/w/74e7fef81f5ea0f40880c689/e/c30778111a478fbae0a4fc2b)
 
 
+## Tips
+
+Use Klipper to tension the belts  
+https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281
+
 ## Mods
 
 ### Rama idlers
