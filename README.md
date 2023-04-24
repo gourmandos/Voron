@@ -29,6 +29,8 @@ Credits @jdndm#3948 on Discord
 Use Klipper to tension the belts  
 https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281
 
+https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8
+
 ## Mods
 
 ### Rama idlers
