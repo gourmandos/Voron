@@ -210,7 +210,7 @@ https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octo
 
 ### Wiring
 
-[D2F Switch](\images\D2F_DS.pdf)
+[D2F Switch](/images/D2F_DS.pdf)
 
 
 ## Pi Stuff
