@@ -24,6 +24,9 @@ Credits @jdndm#3948 on Discord
 [PTFE tube guide](https://cad.onshape.com/documents/5770d51745b737d0fa74be61/w/74e7fef81f5ea0f40880c689/e/c30778111a478fbae0a4fc2b)
 
 
+[Nozzle torque wrench](https://www.thingiverse.com/thing:4738816)  
+[Alternate nozzle torque wrench](https://www.thingiverse.com/thing:4332963)
+
 ## Tips
 
 Use Klipper to tension the belts  
@@ -62,6 +65,8 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 [Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
 
 ### Frame reinforcement
+
+>UPDATE FILE !!!
 
 [Y Support](/stl-3mf/Y%20support/)  
 Credits @karlOS#2150 and @awolf_alone#3888 on Discord
@@ -183,10 +188,6 @@ WITH: https://drive.google.com/drive/folders/1Z5R5iSrDxx-fSL647MQqjwC_a0YF4xba
 
 [Evermore](https://github.com/TodWulff/Evermore-Chamber-Filter)
 
-### Nozzle torque wrench
-https://www.thingiverse.com/thing:4738816
-https://www.thingiverse.com/thing:4332963
-
 ### GoopPenClip
 
 [Gridfinity goop clip](https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip)
@@ -194,19 +195,20 @@ https://www.thingiverse.com/thing:4332963
 ## Electronics
 
 ### Octopus Pro Guide
-https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-octopus-guides/btt-octopus-pro-guide/
+
+[Link](https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-octopus-guides/btt-octopus-pro-guide/)
 
 ### Octopus PinOut
 
 [BTT Octopus Pro v1.0 F429](https://teamgloomy.github.io/btt_octopus_pro_1.0_f429_pins.html)
-![BTT Octopus Pro v1.0 F429](https://github.com/gourmandos/VoronTrident300/blob/main/images/btt_octopus_pro_1.0_pins.png?raw=true)
 
 BTT Octopus Pro v1.0 F446/F429  
 ![BTT Octopus Pro Pins](https://github.com/gourmandos/VoronTrident300/blob/main/images/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN.png?raw=true)
 
 
 ### Octopus Firmware Flashing
-https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octopus_klipper.md
+
+[Instructions](https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octopus_klipper.md)
 
 ### Wiring
 
@@ -216,14 +218,23 @@ https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octo
 ## Pi Stuff
 
 ### Rpi stop button
-https://shop.inux3d.com/en/home/143-218-terrapi-power-button-.html#/11-color-black
-https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button
+
+Connect a switch between PIN 5 (GPIO 3) and 6 (ground) for ON/OFF deep sleep function.  SSH in and type:
+
+>sudo nano /boot/config.txt
+
+Add the following above the **ALL** section  
+>dtoverlay=gpio-shutdown
+
+[Cable, pinout & instructions](https://shop.inux3d.com/en/home/143-218-terrapi-power-button-.html#/11-color-black)  
+[LED status](https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button)
 
 ## Config Stuff
 
 ### Config Trident MakerBogans
 
-[Susheii](https://github.com/Susheii/VT.577_Config)
+[General repo](https://github.com/MakerBogans/KlipperConfig/)  
+[Susheii](https://github.com/Susheii/VT.577_Config)  
 [Verethy](https://github.com/MakerBogans/KlipperConfig/tree/master/Verethy/VT-627)
  
 ### LED
@@ -235,7 +246,7 @@ https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-
 [Klipper estimator](https://github.com/Annex-Engineering/klipper_estimator)
 
 ### Adaptive Bedmesh
-https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md
+[Klippain](https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md)  
 [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
 ### SS PLA Profile example
