@@ -181,7 +181,8 @@ https://www.thingiverse.com/thing:4738816
 https://www.thingiverse.com/thing:4332963
 
 ### GoopPenClip
-https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip
+
+[Gridfinity goop clip](https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip)
 
 ## Electronics
 
