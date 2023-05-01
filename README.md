@@ -197,11 +197,20 @@ https://www.thingiverse.com/thing:4332963
 https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-octopus-guides/btt-octopus-pro-guide/
 
 ### Octopus PinOut
-![BTT Octopus Pro Pins](https://github.com/gourmandos/VoronTrident300/blob/main/images/btt_octopus_pro_1.0_pins.png?raw=true)
-https://teamgloomy.github.io/btt_octopus_pro_1.0_f429_pins.html
+
+[BTT Octopus Pro v1.0 F429](https://teamgloomy.github.io/btt_octopus_pro_1.0_f429_pins.html)
+![BTT Octopus Pro v1.0 F429](https://github.com/gourmandos/VoronTrident300/blob/main/images/btt_octopus_pro_1.0_pins.png?raw=true)
+
+BTT Octopus Pro v1.0 F446/F429  
+![BTT Octopus Pro Pins](https://github.com/gourmandos/VoronTrident300/blob/main/images/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN.png?raw=true)
+
 
 ### Octopus Firmware Flashing
 https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octopus_klipper.md
+
+### Wiring
+
+[D2F Switch](\images\D2F_DS.pdf)
 
 
 ## Pi Stuff
