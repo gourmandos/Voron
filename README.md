@@ -219,6 +219,8 @@ BTT Octopus Pro v1.0 F446/F429
 - pairs should have around 1.5 to 2.5 ohms
 - if very loud, swap the 2 middle wires
 
+You also can spin the motor by hand, and short pairs until it stalls. Then you know what’s what, and flip direction in software
+
 ## Pi Stuff
 
 ### Rpi stop button
