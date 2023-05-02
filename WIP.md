@@ -1,29 +1,51 @@
 # WIP
 
-
 ## Physical mods
 
-Inverted electronics
-Air circulation / filtration
-DB / Sherpa or Vextrudort
-RKE
-Rama idlers
-Internal spool
-Purge bucket / scrubber
-Eureka
-Chamber thermistor
-K3 Door
-Panel clips
-LED
+---
+
+- Inverted electronics
+- ~~Rama idlers~~
+
+---
+
+- DB / Sherpa or Vextrudort
+- RKE
+- Eureka
+
+---
+
+- Y support
+- K3 Door
+- Panel clips
+
+---
+
+- Purge bucket / scrubber
+- Chamber thermistor
+- Air circulation
+- Air filtration
+
+---
+
+- LED
+- Internal spool
+
+---
+
+---
+
 Sensorless homing
-Corner brace
 
 ## Electronics
 
-Pi SSD/WLAN
-Extrusion role for fast infill
-Config autobackup
-Nevermore if ABS...
-Heatsoak macro
-Skirt buttons (light 30% to 100%, up/down babystep, momentary ON/OFF = pi off?)
+- Pi Klipperscreen
+- Extrusion role for fast infill
+- Config autobackup
+- Nevermore if ABS...
+- Heatsoak macro
+- Skirt buttons (light 30% to 100%, up/down babystep, momentary ON/OFF, pause)
 
+## Potential
+
+[TAP DB](https://github.com/RustyWar85/DirtyBird-Tap-Cores)

@@ -66,7 +66,7 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 ### Frame reinforcement
 
->UPDATE FILE !!!
+>`UPDATE FILE !!!`
 
 [Y Support](/stl-3mf/Y%20support/)  
 Credits @karlOS#2150 and @awolf_alone#3888 on Discord
@@ -225,10 +225,15 @@ BTT Octopus Pro v1.0 F446/F429
 
 Connect a switch between PIN 5 (GPIO 3) and 6 (ground) for ON/OFF deep sleep function.  SSH in and type:
 
->sudo nano /boot/config.txt
+```
+sudo nano /boot/config.txt
+```
 
-Add the following above the **ALL** section  
->dtoverlay=gpio-shutdown
+Add the following above the **ALL** section
+
+```
+dtoverlay=gpio-shutdown
+```
 
 [Cable, pinout & instructions](https://shop.inux3d.com/en/home/143-218-terrapi-power-button-.html#/11-color-black)  
 [LED status](https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button)
@@ -265,12 +270,15 @@ https://www.klipper3d.org/TMC_Drivers.html#configure-printercfg-for-sensorless-h
 https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 
 ### PA per nozzle
+
+```
 ; Set pressure advance per-filament for different nozzle sizes
 {if nozzle_diameter[0]==0.4}SET_PRESSURE_ADVANCE ADVANCE=0.04  SMOOTH_TIME=0.02
 {elsif nozzle_diameter[0]==0.5}SET_PRESSURE_ADVANCE ADVANCE=0.03 SMOOTH_TIME=0.02
 {elsif nozzle_diameter[0]==0.6}SET_PRESSURE_ADVANCE ADVANCE=0.01  SMOOTH_TIME=0.02
 {elsif nozzle_diameter[0]==0.8}SET_PRESSURE_ADVANCE ADVANCE=0.01 SMOOTH_TIME=0.02
 {endif}
+```
 
 ### Extrusion roles - Fast Infill
 https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276
