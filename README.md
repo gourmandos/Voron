@@ -261,13 +261,6 @@ dtoverlay=gpio-shutdown
 ### SS PLA Profile example
 https://gist.githubusercontent.com/cmidgley/d6bb5e894def0794fa3e1f154e794aaa/raw/723e58910d8efdbd86f0f36f43d770f766422ba4/Voron%252024%2520SuperSlicer.ini
 
-### Fast infill
-https://github.com/RomRider/klipper-FastGyroidInfill
-
-### Easy Sensorless homing
-https://github.com/kyleisah/EZ-Sensorless-Homing
-https://www.klipper3d.org/TMC_Drivers.html#configure-printercfg-for-sensorless-homing
-https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 
 ### PA per nozzle
 
@@ -283,19 +276,7 @@ https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 ### Extrusion roles - Fast Infill
 https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276
 
-### Chamber Temperature & Exhaust Fan
-https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/chamber_temperature_exhaust_fan.md
-
-### Advance resonance tuning
-https://github.com/SnakeOilXY/SnakeOil-XY/blob/master/Doc/Manual/advance-resonance-tuning.md
-
-### FlowCalculator macros
-https://github.com/agentk/klipper_macros/tree/main/FlowCalculator
-
-### Extrusion system Benchmark
-https://github.com/CNCKitchen/ExtrusionSystemBenchmark
-
-## Yet to be understood
+## Yet TBD
 https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version
 
 ## $$$

@@ -33,9 +33,9 @@
 
 ---
 
----
+- Sensorless homing
 
-Sensorless homing
+---
 
 ## Electronics
 
@@ -48,4 +48,6 @@ Sensorless homing
 
 ## Potential
 
-[TAP DB](https://github.com/RustyWar85/DirtyBird-Tap-Cores)
+- [TAP DB](https://github.com/RustyWar85/DirtyBird-Tap-Cores)
+
+- AWD
