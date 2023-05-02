@@ -214,6 +214,10 @@ BTT Octopus Pro v1.0 F446/F429
 
 [D2F Switch](/images/D2F_DS.pdf)
 
+[Stepper motor](/images/4wireMotor.png)  
+- don't forget to do continuity check to identify pairs
+- pairs should have around 1.5 to 2.5 ohms
+- if very loud, swap the 2 middle wires
 
 ## Pi Stuff
 
