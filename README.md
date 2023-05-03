@@ -31,10 +31,9 @@ Credits @jdndm#3948 on Discord
 
 ## TIPS
 
-Use Klipper to tension the belts  
-https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281
+Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281)
 
-https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8
+[Frequency testing](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
 
 ---
 ---
@@ -82,14 +81,13 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 ### Frame reinforcement
 
->`UPDATE FILE !!!`
-
-[Y Support](/stl-3mf/Y%20support/)  
-Credits @karlOS#2150 and @awolf_alone#3888 on Discord
+[Y Support](/stl-3mf/Trident_Y_support.3mf)  
 
 ---
 
 ### Purge & Scrub
+
+> UPDATE [HERE](https://discord.com/channels/712144492563791922/712144492563791925/1103200498649145364)
 
 To be used in combination:
 
@@ -118,7 +116,7 @@ Credits @Sushei#3125 on Discord
 
 ### Insulation support clips
 
-Used to hold insulation on the inside against the PC panels  UNTESTED !!!
+Used to hold insulation on the inside against the PC panels --- UNTESTED !!!  
 [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
 ---
@@ -160,11 +158,11 @@ Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/m
 
 [Daylight bracket 2020](https://github.com/VoronDesign/Voron-Hardware/blob/master/Daylight/STL/Brackets_2020.stl)
 
-https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl
+[LED clip, by eddietheengineer](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip)
 
-https://github.com/Ramalama2/Voron-2-Mods/tree/main/Deprecated/Misumi_Led_Corners
+[LED corner, by Ramalama](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Deprecated/Misumi_Led_Corners)
 
-https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_light_bar_mount_a_x1_Rev1.STL
+[Voron 2.2 led light bar mount](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc)
 
 [Rainbow BARF SB logo](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
 
@@ -182,6 +180,10 @@ https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_ligh
 
 [Orion Tri-belt](https://github.com/bythorsthunder/Orion-Tri-Belt)
 
+[Voron Trident - Belted Z motion](https://github.com/3DPrintingMods/)VoronTrident-BeltedZ
+
+Voron Trident - K3Z
+
 ---
 
 ### Smart Filament Sensor
@@ -192,15 +194,15 @@ Set the sensitivity to 10 minimum
 
 [BTT Smart Filament Sensor frame mount](https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount)
 
-https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount
+[BTT Smart Filament Sensor mount](https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount)
 
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
+[BTT filament motion sensor mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount)
 
 ---
 
-### Internal spool
+### Spool in the chamber
 
-https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/
+[Internal Spool Holder + Bowden Guide](https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/)
 
 ---
 
@@ -220,8 +222,11 @@ https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowd
 
 ### Filter
 
-[Rebreather_XL](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL)  
-WITH: https://drive.google.com/drive/folders/1Z5R5iSrDxx-fSL647MQqjwC_a0YF4xba
+[Rebreather_XL](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL)
+
+Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
+
+> Credits to `UPDATE`
 
 [Rebreather](https://github.com/Annex-Engineering/Rebreather)
 
@@ -260,7 +265,6 @@ WITH: https://drive.google.com/drive/folders/1Z5R5iSrDxx-fSL647MQqjwC_a0YF4xba
 BTT Octopus Pro v1.0 F446/F429  
 ![BTT Octopus Pro Pins](https://github.com/gourmandos/VoronTrident300/blob/main/images/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN.png?raw=true)
 
-
 ### Octopus Firmware Flashing
 
 [Instructions](https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octopus_klipper.md)
@@ -276,9 +280,15 @@ BTT Octopus Pro v1.0 F446/F429
 
 You also can spin the motor by hand, and short pairs until it stalls. Then you know what’s what, and flip direction in software
 
-## Pi Stuff
+---
+---
 
-### Rpi stop button
+## RPI STUFF
+
+---
+---
+
+### Pi stop button
 
 Connect a switch between PIN 5 (GPIO 3) and 6 (ground) for ON/OFF deep sleep function.  SSH in and type:
 
@@ -292,7 +302,10 @@ Add the following above the **ALL** section
 dtoverlay=gpio-shutdown
 ```
 
-[Cable, pinout & instructions](https://shop.inux3d.com/en/home/143-218-terrapi-power-button-.html#/11-color-black)  
+---
+
+[Cable, pinout & instructions](https://shop.inux3d.com/en/home/143-218-terrapi-power-button-.html#/11-color-black)
+
 [LED status](https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button)
 
 ## Config Stuff
@@ -300,8 +313,6 @@ dtoverlay=gpio-shutdown
 ### Config Trident MakerBogans
 
 [General repo](https://github.com/MakerBogans/KlipperConfig/)  
-[Susheii](https://github.com/Susheii/VT.577_Config)  
-[Verethy](https://github.com/MakerBogans/KlipperConfig/tree/master/Verethy/VT-627)
  
 ### LED
 
@@ -312,12 +323,14 @@ dtoverlay=gpio-shutdown
 [Klipper estimator](https://github.com/Annex-Engineering/klipper_estimator)
 
 ### Adaptive Bedmesh
-[Klippain](https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md)  
+
+[Klippain](https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md)
+
 [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
-### SS PLA Profile example
-https://gist.githubusercontent.com/cmidgley/d6bb5e894def0794fa3e1f154e794aaa/raw/723e58910d8efdbd86f0f36f43d770f766422ba4/Voron%252024%2520SuperSlicer.ini
+### SS PLA Profile
 
+[Example](https://gist.githubusercontent.com/cmidgley/d6bb5e894def0794fa3e1f154e794aaa/raw/723e58910d8efdbd86f0f36f43d770f766422ba4/Voron%252024%2520SuperSlicer.ini)
 
 ### PA per nozzle
 
@@ -331,10 +344,12 @@ https://gist.githubusercontent.com/cmidgley/d6bb5e894def0794fa3e1f154e794aaa/raw
 ```
 
 ### Extrusion roles - Fast Infill
-https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276
+
+Discord Message [HERE](https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276)
 
 ## Yet TBD
-https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version
+
+[Sushei DB mod](https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version)
 
 ## $$$
 

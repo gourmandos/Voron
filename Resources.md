@@ -28,7 +28,13 @@ Quick formula for stepper motor maximum voltage:
 run_current = motor_peak_current * 0.707 * 0.80
 ```
 
-## Setup 
+## SETUP
+
+### Fixing a wonky bed mesh
+
+Discord message [HERE](https://discord.com/channels/460117602945990666/551488536256184331/1023369753470980197)
+
+---
 
 ### Rotation_distance on extruders
 
@@ -52,7 +58,17 @@ rotation_distance = 200 * 20mm / 100mm
 
 ---
 
-## Calibration 
+### Sensorless homing
+
+[EZ Sensorless homing](https://github.com/kyleisah/EZ-Sensorless-Homing)
+
+[Klipper official documentation](https://www.klipper3d.org/TMC_Drivers.html#configure-printercfg-for-sensorless-homing)
+
+[Voron Design documentation](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html)
+
+---
+
+## CALIBRATION 
 
 [Advance resonance tuning](https://github.com/SnakeOilXY/SnakeOil-XY/blob/master/Doc/Manual/advance-resonance-tuning.md)
 
@@ -61,11 +77,3 @@ rotation_distance = 200 * 20mm / 100mm
 [Extrusion system Benchmark](https://github.com/CNCKitchen/ExtrusionSystemBenchmark)
 
 ---
-
-
-
-
-### Easy Sensorless homing
-https://github.com/kyleisah/EZ-Sensorless-Homing
-https://www.klipper3d.org/TMC_Drivers.html#configure-printercfg-for-sensorless-homing
-https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
