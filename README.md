@@ -3,7 +3,7 @@
 This is a collection of mods and info used for planning/completing my built.  
 Use at your own risk !!!
 
-## Things to print
+## THINGS TO PRINT
 
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
 
@@ -27,25 +27,37 @@ Credits @jdndm#3948 on Discord
 [Nozzle torque wrench](https://www.thingiverse.com/thing:4738816)  
 [Alternate nozzle torque wrench](https://www.thingiverse.com/thing:4332963)
 
-## Tips
+---
+
+## TIPS
 
 Use Klipper to tension the belts  
 https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281
 
 https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8
 
-## Mods
+---
+---
+
+## MODS
+
+---
+---
 
 ### Rama idlers
 
 [Front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)  
 Necessary if upgrading the extruder to [DirtyBird](https://github.com/MakerBogans/dirtybird/)
 
+---
+
 ### 0.9 Motors AB
 
 VFAs management  
-[Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or [AliExpress Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)  
-To be combined with [25 teeth pulleys (5mm bore / 6mm belt)](https://www.aliexpress.com/item/32994584651.html)
+[Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or AliExpress [Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)  
+To be combined with [25 teeth pulleys](https://www.aliexpress.com/item/32994584651.html) (5mm bore / 6mm belt)
+
+---
 
 ### Back panel exhaust
 
@@ -56,6 +68,8 @@ To be combined with [25 teeth pulleys (5mm bore / 6mm belt)](https://www.aliexpr
 [LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf)  
 Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
 
+---
+
 ### Doors
 
 [K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
@@ -64,12 +78,16 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 [Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
 
+---
+
 ### Frame reinforcement
 
 >`UPDATE FILE !!!`
 
 [Y Support](/stl-3mf/Y%20support/)  
 Credits @karlOS#2150 and @awolf_alone#3888 on Discord
+
+---
 
 ### Purge & Scrub
 
@@ -80,8 +98,9 @@ Credits @Sushei#3125 on Discord
 
 [Trident decontaminator mount](https://www.teamfdm.com/files/file/617-trident-decontaminator_mount_rightstl/)
 
-Macros:  
-https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber/Macros
+[Macros](https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber/Macros)
+
+---
 
 ### Panel Clips
  
@@ -89,14 +108,20 @@ https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods
 
 [Annex 2020 panel clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
 
+---
+
 ### Handles
 
 [Sturdy handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
+
+---
 
 ### Insulation support clips
 
 Used to hold insulation on the inside against the PC panels  UNTESTED !!!
 [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
+
+---
 
 ### Electronic bay
 
@@ -117,6 +142,8 @@ Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/m
 
 [AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
 
+---
+
 ### Skirts
 
 [Integrated accent mesh](https://www.youtube.com/watch?v=K6sHfXldK4k)
@@ -126,6 +153,8 @@ Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/m
 [Trident right skirt switch](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/Right_Skirt_Switch)
 
 [Skirt push buttons - *Bouncy Mouse*](https://github.com/Jaans/Voron-Printer-Mods/tree/main/Bouncy-Mouse)
+
+---
 
 ### LEDs
 
@@ -139,15 +168,21 @@ https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Misc/led_ligh
 
 [Rainbow BARF SB logo](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
 
+---
+
 ### Doomy
 
 [Sidepack](https://github.com/3DPrintingMods/VoronTrident-Sidepack)
 
 [EZ Bake](https://github.com/FrankenVoron/Trident-EZBake)
 
+---
+
 ### Belted Z
 
 [Orion Tri-belt](https://github.com/bythorsthunder/Orion-Tri-Belt)
+
+---
 
 ### Smart Filament Sensor
 
@@ -161,9 +196,13 @@ https://www.printables.com/model/220585-voron-v2-btt-smart-filament-sensor-mount
 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
 
+---
+
 ### Internal spool
 
 https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/
+
+---
 
 ### Temp control
 
@@ -171,7 +210,13 @@ https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowd
 
 [Trident Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 
-## Accessories
+---
+---
+
+## ACCESORIES
+
+---
+---
 
 ### Filter
 
@@ -188,11 +233,21 @@ WITH: https://drive.google.com/drive/folders/1Z5R5iSrDxx-fSL647MQqjwC_a0YF4xba
 
 [Evermore](https://github.com/TodWulff/Evermore-Chamber-Filter)
 
+[MFNano](https://github.com/MapleLeafMakers/MFNano)
+
+---
+
 ### GoopPenClip
 
 [Gridfinity goop clip](https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip)
 
-## Electronics
+---
+---
+
+## ELECTRONICS
+
+---
+---
 
 ### Octopus Pro Guide
 
