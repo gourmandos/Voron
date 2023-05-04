@@ -1,7 +1,13 @@
-# WIP
+# [WIP](/WIP.md)
+
+# [RESOURCES](/Resources.md)
+
+
 
 This is a collection of mods and info used for planning/completing my built.  
 Use at your own risk !!!
+
+---
 
 ## THINGS TO PRINT
 
@@ -36,11 +42,10 @@ Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/
 [Frequency testing](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
 
 ---
----
+
 
 ## MODS
 
----
 ---
 
 ### Rama idlers
