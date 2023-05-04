@@ -9,7 +9,7 @@ Use at your own risk !!!
 
 ---
 
-## THINGS TO PRINT
+# THINGS TO PRINT
 
 [Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
 
@@ -35,7 +35,7 @@ Credits @jdndm#3948 on Discord
 
 ---
 
-## TIPS
+# TIPS
 
 Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281)
 
@@ -43,19 +43,16 @@ Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/
 
 ---
 
+# MODS
 
-## MODS
-
----
-
-### Rama idlers
+## Rama idlers
 
 [Front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)  
 Necessary if upgrading the extruder to [DirtyBird](https://github.com/MakerBogans/dirtybird/)
 
 ---
 
-### 0.9 Motors AB
+## 0.9 Motors AB
 
 VFAs management  
 [Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or AliExpress [Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)  
@@ -63,7 +60,7 @@ To be combined with [25 teeth pulleys](https://www.aliexpress.com/item/329945846
 
 ---
 
-### Back panel exhaust
+## Back panel exhaust
 
 [Magnetic Exhaust Grill Cover](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover)
 
@@ -74,7 +71,7 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 ---
 
-### Doors
+## Doors
 
 [K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
 
@@ -84,13 +81,13 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 ---
 
-### Frame reinforcement
+## Frame reinforcement
 
 [Y Support](/stl-3mf/Trident_Y_support.3mf)  
 
 ---
 
-### Purge & Scrub
+## Purge & Scrub
 
 > UPDATE [HERE](https://discord.com/channels/712144492563791922/712144492563791925/1103200498649145364)
 
@@ -110,7 +107,7 @@ Credits @Sushei#3125 on Discord
 
 ---
 
-### Panel Clips
+## Panel Clips
  
 [Snap latches 2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
 
@@ -118,20 +115,20 @@ Credits @Sushei#3125 on Discord
 
 ---
 
-### Handles
+## Handles
 
 [Sturdy handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
 
 ---
 
-### Insulation support clips
+## Insulation support clips
 
 Used to hold insulation on the inside against the PC panels --- UNTESTED !!!  
 [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 
 ---
 
-### Electronic bay
+## Electronic bay
 
 [Trident Inverted Electronics Bay](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/TridentInvertedElectronics)
 
@@ -151,7 +148,7 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 ---
 
-### Skirts
+## Skirts
 
 [Integrated accent mesh](https://www.youtube.com/watch?v=K6sHfXldK4k)
 
@@ -163,7 +160,7 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 ---
 
-### LEDs
+## LEDs
 
 [Daylight bracket 2020](https://github.com/VoronDesign/Voron-Hardware/blob/master/Daylight/STL/Brackets_2020.stl)
 
@@ -177,7 +174,7 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 ---
 
-### Doomy
+## Doomy
 
 [Sidepack](https://github.com/3DPrintingMods/VoronTrident-Sidepack)
 
@@ -185,7 +182,7 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 ---
 
-### Belted Z
+## Belted Z
 
 [Orion Tri-belt](https://github.com/bythorsthunder/Orion-Tri-Belt)
 
@@ -195,7 +192,7 @@ Voron Trident - K3Z
 
 ---
 
-### Smart Filament Sensor
+## Smart Filament Sensor
 
 Set the sensitivity to 10 minimum
 
@@ -207,29 +204,19 @@ Set the sensitivity to 10 minimum
 
 [BTT filament motion sensor mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount)
 
----
-
-### Spool in the chamber
+## Spool in the chamber
 
 [Internal Spool Holder + Bowden Guide](https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/)
 
----
-
-### Temp control
+## Temp control
 
 [Thermistor mount 2020](https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw)
 
 [Trident Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 
----
----
+# ACCESORIES
 
-## ACCESORIES
-
----
----
-
-### Filter
+## Filter
 
 [Rebreather_XL](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL)
 
@@ -249,36 +236,29 @@ Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
 
 [MFNano](https://github.com/MapleLeafMakers/MFNano)
 
----
-
-### GoopPenClip
+## GoopPenClip
 
 [Gridfinity goop clip](https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip)
 
----
----
+# ELECTRONICS
 
-## ELECTRONICS
 
----
----
-
-### Octopus Pro Guide
+## Octopus Pro Guide
 
 [Link](https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-octopus-guides/btt-octopus-pro-guide/)
 
-### Octopus PinOut
+## Octopus PinOut
 
 [BTT Octopus Pro v1.0 F429](https://teamgloomy.github.io/btt_octopus_pro_1.0_f429_pins.html)
 
 BTT Octopus Pro v1.0 F446/F429  
 ![BTT Octopus Pro Pins](https://github.com/gourmandos/VoronTrident300/blob/main/images/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN.png?raw=true)
 
-### Octopus Firmware Flashing
+## Octopus Firmware Flashing
 
 [Instructions](https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octopus_klipper.md)
 
-### Wiring
+## Wiring
 
 [D2F Switch](/images/D2F_DS.pdf)
 
@@ -289,15 +269,9 @@ BTT Octopus Pro v1.0 F446/F429
 
 You also can spin the motor by hand, and short pairs until it stalls. Then you know what’s what, and flip direction in software
 
----
----
+# RPI STUFF
 
-## RPI STUFF
-
----
----
-
-### Pi stop button
+## Pi stop button
 
 Connect a switch between PIN 5 (GPIO 3) and 6 (ground) for ON/OFF deep sleep function.  SSH in and type:
 
@@ -317,31 +291,31 @@ dtoverlay=gpio-shutdown
 
 [LED status](https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button)
 
-## Config Stuff
+# CONFIG STUFF
 
-### Config Trident MakerBogans
+## Config Trident MakerBogans
 
 [General repo](https://github.com/MakerBogans/KlipperConfig/)  
- 
-### LED
+
+## LED
 
 [Rainbow barf logo for SB](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
 
-### Klipper Estimator
+## Klipper Estimator
 
 [Klipper estimator](https://github.com/Annex-Engineering/klipper_estimator)
 
-### Adaptive Bedmesh
+## Adaptive Bedmesh
 
 [Klippain](https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md)
 
 [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 
-### SS PLA Profile
+## SS PLA Profile
 
 [Example](https://gist.githubusercontent.com/cmidgley/d6bb5e894def0794fa3e1f154e794aaa/raw/723e58910d8efdbd86f0f36f43d770f766422ba4/Voron%252024%2520SuperSlicer.ini)
 
-### PA per nozzle
+## PA per nozzle
 
 ```
 ; Set pressure advance per-filament for different nozzle sizes
@@ -352,17 +326,17 @@ dtoverlay=gpio-shutdown
 {endif}
 ```
 
-### Extrusion roles - Fast Infill
+## Extrusion roles - Fast Infill
 
 Discord Message [HERE](https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276)
 
-## Yet TBD
+# Yet TBD
 
 [Sushei DB mod](https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version)
 
-## $$$
+# $$$
 
-### Cable Management
+## Cable Management
 
 [Rigid Open Slotted Cable Duct ](https://www.tradezone.com.au/product/nhp-25mm-x-30mm-x-2-metres-rigid-open-slotted-cable-duct-21104.html)
 
