@@ -94,6 +94,9 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 
 > UPDATE [HERE](https://discord.com/channels/712144492563791922/712144492563791925/1103200498649145364)
 
+https://www.printables.com/model/174526-trident-mount-for-decontaminator-purge-bucket-nozz  
+https://drive.google.com/drive/folders/1WdAFon_ZR4lkPwNxH9pqIMwNEeP3NHKx
+
 To be used in combination:
 
 [Double wiper decontaminator](https://drive.google.com/drive/u/0/folders/1z-9KpVIce1BrdW45PiMQcnK1v2ausvbj)  
@@ -102,6 +105,8 @@ Credits @Sushei#3125 on Discord
 [Trident decontaminator mount](https://www.teamfdm.com/files/file/617-trident-decontaminator_mount_rightstl/)
 
 [Macros](https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber/Macros)
+
+[Jig](/stl-3mf/Wiper_Jig.stl) for cutting the icetray made wiper.
 
 ---
 
@@ -130,8 +135,7 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 [Trident Inverted Electronics Bay](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/TridentInvertedElectronics)
 
-[SSD DIN mount](/stl-3mf/SSD%20DIN%20mount/)  
-Inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket)
+[SSD DIN mount](/stl-3mf/SSD%20DIN%20mount/), inspired from [SSD DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/slitte/ssd_bracket)
 
 [Pi fan with SSD mount](https://www.printables.com/model/225282-the-terrapi-x-prusa-edition-single-ssd-case-for-ra)
 
