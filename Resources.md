@@ -77,3 +77,7 @@ rotation_distance = 200 * 20mm / 100mm
 [Extrusion system Benchmark](https://github.com/CNCKitchen/ExtrusionSystemBenchmark)
 
 ---
+
+## TROUBLESHOOTING
+
+In case of under-extrusion, check that the printer/slicer is in relative and not absolute. Add M83 in the slicer if not. See Discord message [HERE](https://discord.com/channels/712144492563791922/712144816707731456/1105794634652844042)
