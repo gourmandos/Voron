@@ -1,0 +1,50 @@
+Reboot the Pi after completion of every step with:
+
+```
+sudo reboot
+```
+
+---
+
+- Flash the Pi using `legacy Pi os lite (buster)`
+
+- Follow this [guide](https://docs.mainsail.xyz/setup/getting-started/manual-setup)
+
+Under `Requirements`, change to `Debian 10` tab and execute the first set of commands.
+
+- Install [KIAUH](https://github.com/th33xitus/kiauh)
+
+- Install Klipper via KIAUH
+
+- Install Moonraker via KIAUH
+
+- Install Mainsail via KIAUH
+
+- Install Klipperscreen via KIAUH
+
+- Copy CFG backups on the Pi and firmware restart it
+
+```It should now work!```
+
+Update to Bullseye using this [guide](https://linuxhint.com/upgrade-raspberry-pi-os-buster-to-bullseye/) and execute the following once complete:
+
+```
+sudo nano /etc/apt/sources.list.d/raspi.list
+```
+
+At that point it worked but showed available updates that failed to install. To fix it, run:
+
+```
+sudo apt update sudo apt full-upgrade sudo reboot
+```
+
+To activate the deepsleep via switch, edit:
+
+```
+sudo nano /boot/config.txt
+```
+and add the following in the `ALL` section:
+
+```
+dtoverlay=gpio-shutdown
+```
