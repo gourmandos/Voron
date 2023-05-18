@@ -146,6 +146,7 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 [AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
 
+[Octopus Pro FanCase aka Octoglasses](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase)
 ---
 
 ## Skirts
@@ -213,6 +214,8 @@ Set the sensitivity to 10 minimum
 [Thermistor mount 2020](https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw)
 
 [Trident Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
+
+[Connecting a 4028 fan](https://os.ratrig.com/docs/guides/4028/)
 
 # ACCESORIES
 
@@ -298,6 +301,10 @@ dtoverlay=gpio-shutdown
 ## Config Trident MakerBogans
 
 [General repo](https://github.com/MakerBogans/KlipperConfig/)  
+
+## A better print_start macro
+
+[Github repo](https://github.com/PrintStructor/A-better-print_start-macro)
 
 ## LED
 
