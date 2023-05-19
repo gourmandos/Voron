@@ -1,0 +1,23 @@
+Quick fix:
+
+If the KlipperScreen touch is broken, use KIAUH to reinstall over the top of the existing install and it should fix the problem.
+
+
+---
+---
+Alternatively:
+```
+sudo nano /boot/config.txt
+```
+Change `dtoverlay=vc4-kms-v3d` to `dtoverlay=vc4-fkms-v3d`
+
+Change `max_framebuffers=2` to `max_framebuffers=1`
+
+Exit and save
+
+```
+sudo bash -c "echo needs_root_rights=yes>>/etc/X11/Xwrapper.config"
+```
+Reboot
+
+[Source](https://github.com/jordanruthe/KlipperScreen/issues/949)

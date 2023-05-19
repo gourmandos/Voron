@@ -147,6 +147,9 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 [AliExpress Wagos DIN bracket](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62)
 
 [Octopus Pro FanCase aka Octoglasses](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase)
+
+[Misumi Cable Clip](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip)
+
 ---
 
 ## Skirts
@@ -338,6 +341,11 @@ dtoverlay=gpio-shutdown
 ## Extrusion roles - Fast Infill
 
 Discord Message [HERE](https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276)
+
+## Change KlipperScreen background
+
+[Blue hexes background](https://www.teamfdm.com/files/file/690-klipper-screen-blue-hexes/)
+
 
 # Yet TBD
 
