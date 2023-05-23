@@ -279,6 +279,10 @@ You also can spin the motor by hand, and short pairs until it stalls. Then you k
 
 # RPI STUFF
 
+## Setup a RPi directory as a network shared folder to easily upload prints
+
+Guide [HERE](https://pimylifeup.com/raspberry-pi-samba/)
+
 ## Pi stop button
 
 Connect a switch between PIN 5 (GPIO 3) and 6 (ground) for ON/OFF deep sleep function.  SSH in and type:
