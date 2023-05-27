@@ -220,6 +220,10 @@ Set the sensitivity to 10 minimum
 
 [Connecting a 4028 fan](https://os.ratrig.com/docs/guides/4028/)
 
+## Extruder
+
+[Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) - The issue 6/602 slayer
+
 # ACCESORIES
 
 ## Filter
