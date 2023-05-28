@@ -30,6 +30,12 @@ Quick formula for stepper motor maximum voltage:
 run_current = motor_peak_current * 0.707 * 0.80
 ```
 
+## Wiring
+
+[ 4-pin computer PWM fan on the BTT Octopus](https://www.nicksherlock.com/2022/01/driving-a-4-pin-computer-pwm-fan-on-the-btt-octopus-using-klipper/)
+
+[Connecting a 4028 server fan](https://os.ratrig.com/docs/guides/4028/)
+
 ## SETUP
 
 ### Fixing a wonky bed mesh

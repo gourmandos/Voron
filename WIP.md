@@ -9,7 +9,7 @@
 
 ---
 
-- DB / Sherpa or Vextrudort
+- DB / Sherpa micro or Vextrudort or Sherpa Crew Mini
 - RKE
 
 >Note the rk-rearmount with the little 'hook' that holds the Z chain away from the ribbon, only for v2.4  
