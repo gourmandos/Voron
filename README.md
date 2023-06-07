@@ -311,6 +311,10 @@ dtoverlay=gpio-shutdown
 
 # CONFIG STUFF
 
+## Back up printer configuration files to GitHub
+
+Guide [Here](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html)
+
 ## Config Trident MakerBogans
 
 [General repo](https://github.com/MakerBogans/KlipperConfig/)  
