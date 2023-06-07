@@ -33,6 +33,8 @@ Credits @jdndm#3948 on Discord
 [Nozzle torque wrench](https://www.thingiverse.com/thing:4738816)  
 [Alternate nozzle torque wrench](https://www.thingiverse.com/thing:4332963)
 
+[Additional wagos mounts](https://github.com/LoganFraser/VoronMods/tree/main/WagoMounts)
+
 ---
 
 # TIPS
@@ -76,6 +78,8 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 [K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
 
 [270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
+
+[270° hinges - Parametric](https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges)
 
 [Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
 

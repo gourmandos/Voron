@@ -42,6 +42,20 @@ run_current = motor_peak_current * 0.707 * 0.80
 
 ## SETUP
 
+### Rpi Shutdown behavior
+
+[Binds GPIO 21 to shutdown installs dependencies](https://github.com/maz0r/rpi-shutdown)
+
+### CanBUS
+
+[How to Use CAN Toolhead Boards Connected Directly to Octopus](/other/How%20to%20Use%20CAN%20Toolhead%20Boards%20Connected%20Directly%20to%20Octopus.pdf)   -   Source [HERE](https://www.teamfdm.com/forums/topic/672-how-to-use-can-toolhead-boards-connected-directly-to-octopus-octopus-pro-on-canboot/)
+
+[maz0r guide](https://maz0r.github.io/klipper_canbus/)
+
+[Esoterical guide](https://github.com/Esoterical/voron_canbus)
+
+[USB to CAN bus bridge mode](https://www.klipper3d.org/CANBUS.html#usb-to-can-bus-bridge-mode)
+
 ### Fixing a wonky bed mesh
 
 Discord message [HERE](https://discord.com/channels/460117602945990666/551488536256184331/1023369753470980197)
