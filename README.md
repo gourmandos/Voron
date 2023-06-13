@@ -154,6 +154,8 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 [Misumi Cable Clip](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip)
 
+[Cable duct](https://github.com/GP3DS/Voron-Mods/tree/main/Cable_Duct)
+
 ---
 
 ## Skirts
