@@ -34,6 +34,11 @@ run_current = motor_peak_current * 0.707 * 0.80
 
 [ResHelper](https://github.com/lhndo/ResHelper)
 
+## Frequency Tester
+
+Test a specific frequency that you hear when you do your resonance testing in Klipper.  
+Link [HERE](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
+
 ## Wiring
 
 [ 4-pin computer PWM fan on the BTT Octopus](https://www.nicksherlock.com/2022/01/driving-a-4-pin-computer-pwm-fan-on-the-btt-octopus-using-klipper/)
@@ -101,6 +106,8 @@ rotation_distance = 200 * 20mm / 100mm
 [Flow Calculator macros](https://github.com/agentk/klipper_macros/tree/main/FlowCalculator)
 
 [Extrusion system Benchmark](https://github.com/CNCKitchen/ExtrusionSystemBenchmark)
+
+[Bioshank - Flow Test Tool](https://docs.google.com/spreadsheets/d/1owDOOfIYF0fXw-70wJZLp1kmjqjqEDme/edit#gid=2039809214)
 
 ---
 
