@@ -4,12 +4,12 @@
 
 ---
 
-- Inverted electronics
+- ~~Inverted electronics~~
 - ~~Rama idlers~~
 
 ---
 
-- DB / Sherpa micro or Vextrudort or Sherpa Crew Mini
+- DB / Sherpa SLS
 - RKE
 
 >Note the rk-rearmount with the little 'hook' that holds the Z chain away from the ribbon, only for v2.4  
@@ -34,7 +34,8 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 ---
 
 - LED
-- Internal spool
+- LED diffusers
+- ~~Internal spool~~
 
 ---
 

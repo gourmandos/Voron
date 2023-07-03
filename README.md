@@ -25,11 +25,6 @@ Credits @jdndm#3948 on Discord
 
 [2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
 
-[PTFE tube guide](https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide)  
-[PTFE tube guide](https://github.com/GalvanicGlaze/VoronUsers/tree/master/printer_mods/Galvanic/Bowden_Tube_Guide)  
-[PTFE tube guide](https://cad.onshape.com/documents/5770d51745b737d0fa74be61/w/74e7fef81f5ea0f40880c689/e/c30778111a478fbae0a4fc2b)
-
-
 [Nozzle torque wrench](https://www.thingiverse.com/thing:4738816)  
 [Alternate nozzle torque wrench](https://www.thingiverse.com/thing:4332963)
 
@@ -202,6 +197,13 @@ Voron Trident - K3Z
 
 ---
 
+## Filament guide
+
+[Through panel with 360° joint](https://github.com/DeBau/VoronMods/tree/main/Top%20Bowden%20Guide)
+
+[PTFE tube guide with F695 bearing - TOP REAR extrusion](/stl-3mf/Bowden_Guide_-_Long-Arm_v1-F695.3mf)  
+Credits to [GalvanicGlaze](https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide) & [top_gun_de](https://discord.com/channels/460117602945990666/635687829254701107/1026616435805519902) 
+    
 ## Smart Filament Sensor
 
 Set the sensitivity to 10 minimum
