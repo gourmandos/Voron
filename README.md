@@ -163,6 +163,13 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 [Skirt push buttons - *Bouncy Mouse*](https://github.com/Jaans/Voron-Printer-Mods/tree/main/Bouncy-Mouse)
 
+
+## Screen mount
+
+[Waveshare 5'' screen](/stl-3mf/Waveshare%205''%20screen.3mf)
+
+Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remixed from [sttts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED) & [Paul_GD](https://www.printables.com/model/178195-waveshare-5-dsi-touchscreen-for-bear-21)
+
 ---
 
 ## LEDs
