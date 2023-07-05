@@ -324,7 +324,11 @@ dtoverlay=gpio-shutdown
 
 ## Back up printer configuration files to GitHub
 
-Guide [Here](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html)
+Guide [here](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html) & alternate guide [here](https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper)
+
+## Autocommit config changes to github
+
+Guide [here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F)
 
 ## Config Trident MakerBogans
 
