@@ -184,6 +184,8 @@ Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remix
 
 [Rainbow BARF SB logo](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
 
+[LED baffles](https://github.com/AdamV3D/V3D-Voron-Mods/tree/main/Daylight_on_a_Stick/Mounts/V2.4/V2)
+
 ---
 
 ## Doomy
