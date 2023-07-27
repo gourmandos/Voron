@@ -200,7 +200,7 @@ Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remix
 
 [Orion Tri-belt](https://github.com/bythorsthunder/Orion-Tri-Belt)
 
-[Voron Trident - Belted Z motion](https://github.com/3DPrintingMods/)VoronTrident-BeltedZ
+[Voron Trident - Belted Z motion](https://github.com/3DPrintingMods/VoronTrident-BeltedZ)
 
 Voron Trident - K3Z
 
