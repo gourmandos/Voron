@@ -11,7 +11,9 @@ Use at your own risk !!!
 
 # THINGS TO PRINT
 
-[Belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
+[Simple belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
+
+[GT2 belt tension meter](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter)
 
 [Bridging test](https://www.thingiverse.com/thing:476845)
 
@@ -202,6 +204,8 @@ Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remix
 
 [Voron Trident - Belted Z motion](https://github.com/3DPrintingMods/VoronTrident-BeltedZ)
 
+[VT Belted Z](https://github.com/MathematicalPotato/Voron_Mods/tree/main/VT_Belted_Z)
+
 Voron Trident - K3Z
 
 ---
@@ -298,29 +302,7 @@ You also can spin the motor by hand, and short pairs until it stalls. Then you k
 
 # RPI STUFF
 
-## Setup a RPi directory as a network shared folder to easily upload prints
-
-Guide [HERE](https://pimylifeup.com/raspberry-pi-samba/)
-
-## Pi stop button
-
-Connect a switch between PIN 5 (GPIO 3) and 6 (ground) for ON/OFF deep sleep function.  SSH in and type:
-
-```
-sudo nano /boot/config.txt
-```
-
-Add the following above the **ALL** section
-
-```
-dtoverlay=gpio-shutdown
-```
-
----
-
-[Cable, pinout & instructions](https://shop.inux3d.com/en/home/143-218-terrapi-power-button-.html#/11-color-black)
-
-[LED status](https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button)
+See [HERE](/RPi.md)
 
 # CONFIG STUFF
 
