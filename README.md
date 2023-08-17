@@ -19,9 +19,6 @@ Credits @jdndm#3948 on Discord
 
 [2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
 
-[Nozzle torque wrench](https://www.thingiverse.com/thing:4738816)  
-[Alternate nozzle torque wrench](https://www.thingiverse.com/thing:4332963)
-
 [Additional wagos mounts](https://github.com/LoganFraser/VoronMods/tree/main/WagoMounts)
 
 ---
