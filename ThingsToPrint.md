@@ -6,7 +6,7 @@
 
 ## Tuning tests
 
-EM [moebius plate](/stl-3mf/)
+EM [mobius v3 plate](/stl-3mf/front_drive_plate.stl)
 
 [Bridging test](https://www.thingiverse.com/thing:476845)
 
