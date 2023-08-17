@@ -6,9 +6,9 @@ Guide [HERE](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupCo
 
 Guide [here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F)
 
-## Config Trident MakerBogans
+## Auto Z Calibration
 
-Repo [HERE](https://github.com/MakerBogans/KlipperConfig/)  
+Repo [HERE](https://github.com/protoloft/klipper_z_calibration)
 
 ## A better print_start macro
 
