@@ -1,22 +1,25 @@
 # WIP
 
+Nothing interesting here, just my own tracking.
+
 ## Physical mods
 
 ---
 
 - ~~Inverted electronics~~
 - ~~Rama idlers~~
-
+- Carbon fibre X extrusion
+- Sleeves & cable management
 ---
 
-- DB / Sherpa SLS
-- RKE
+- ~~DB / Sherpa SLS~~
+- ~~RKE~~
 
 >Note the rk-rearmount with the little 'hook' that holds the Z chain away from the ribbon, only for v2.4  
 If ribbon is drooping, use 2x rk-frontmount swivels on X rail, instead of 1 + fence.  
 See [discord pictures](https://discord.com/channels/712144492563791922/888001568568393820/1070332922583859272)  
 Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tree/main/usermods/Usernametaken/Bearing-Shaft) with 2 x f623 bearings, a .5mm shim, m3 nut and an m3 BHCS (length to be adjusted as required).
-- Eureka
+- ~~Eureka~~
 
 ---
 
@@ -27,13 +30,13 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 ---
 
 - Purge bucket / scrubber
-- Chamber thermistor
+- ~~Chamber thermistor~~
 - Air circulation
 - Air filtration
 
 ---
 
-- LED
+- ~~LED~~
 - LED diffusers
 - ~~Internal spool~~
 
@@ -45,7 +48,7 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 
 ## Electronics
 
-- Pi Klipperscreen
+- ~~Pi Klipperscreen~~
 - Extrusion role for fast infill
 - Config autobackup
 - Nevermore if ABS...

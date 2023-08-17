@@ -39,17 +39,7 @@ run_current = motor_peak_current * 0.707 * 0.80
 Test a specific frequency that you hear when you do your resonance testing in Klipper.  
 Link [HERE](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
 
-## Wiring
-
-[ 4-pin computer PWM fan on the BTT Octopus](https://www.nicksherlock.com/2022/01/driving-a-4-pin-computer-pwm-fan-on-the-btt-octopus-using-klipper/)
-
-[Connecting a 4028 server fan](https://os.ratrig.com/docs/guides/4028/)
-
 ## SETUP
-
-### Rpi Shutdown behavior
-
-[Binds GPIO 21 to shutdown installs dependencies](https://github.com/maz0r/rpi-shutdown)
 
 ### CanBUS
 
@@ -114,9 +104,3 @@ rotation_distance = 200 * 20mm / 100mm
 ## TROUBLESHOOTING
 
 In case of under-extrusion, check that the printer/slicer is in relative and not absolute. Add M83 in the slicer if not. See Discord message [HERE](https://discord.com/channels/712144492563791922/712144816707731456/1105794634652844042)
-
-### KlipperScreen
-
-[Pi Buster KlipperScreen Instructions](/other/Pi%20Buster%20KlipperScreen%20Instructions)
-
-[No TouchScreen FIX](/other/No%20touchscreen%20fix)

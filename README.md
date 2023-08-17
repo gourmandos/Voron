@@ -11,14 +11,6 @@ Use at your own risk !!!
 
 # THINGS TO PRINT
 
-[Simple belt tension meter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Kruppes/Tension_Meter)
-
-[GT2 belt tension meter](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter)
-
-[Bridging test](https://www.thingiverse.com/thing:476845)
-
-[V2.4 Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Test_Prints)
-
 [Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
 
 [Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)  
@@ -271,34 +263,11 @@ Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
 
 # ELECTRONICS
 
-
-## Octopus Pro Guide
-
-[Link](https://www.makenprint.uk/3d-printing/3d-printing-guides/3d-printer-mainboard-installation-guides/btt-octopus-guides/btt-octopus-pro-guide/)
-
-## Octopus PinOut
-
-[BTT Octopus Pro v1.0 F429](https://teamgloomy.github.io/btt_octopus_pro_1.0_f429_pins.html)
-
-BTT Octopus Pro v1.0 F446/F429  
-![BTT Octopus Pro Pins](https://github.com/gourmandos/VoronTrident300/blob/main/images/BIGTREETECH-Octopus-Pro-V1.0-Color-PIN.png?raw=true)
-
-## Octopus Firmware Flashing
-
-[Instructions](https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/octopus_klipper.md)
+See [HERE](/Electronics.md)
 
 ## Wiring
 
-[D2F Switch](/images/D2F_DS.pdf)
-
-[Stepper motor](/images/4wireMotor.png)  
-- don't forget to do continuity check to identify pairs
-- pairs should have around 1.5 to 2.5 ohms
-- if very loud, swap the 2 middle wires
-
-You also can spin the motor by hand, and short pairs until it stalls. Then you know what’s what, and flip direction in software.
-
-[Octopus Pro probe port](https://gadgetangel.org/build/electrical/OctopusPro_ProbePort)
+See [HERE](/Electronics.md#wiring)
 
 # RPI STUFF
 
@@ -306,68 +275,10 @@ See [HERE](/RPi.md)
 
 # CONFIG STUFF
 
-## Back up printer configuration files to GitHub
-
-Guide [here](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html) & alternate guide [here](https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper)
-
-## Autocommit config changes to github
-
-Guide [here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F)
-
-## Config Trident MakerBogans
-
-[General repo](https://github.com/MakerBogans/KlipperConfig/)  
-
-## A better print_start macro
-
-[Github repo](https://github.com/PrintStructor/A-better-print_start-macro)
-
-## LED
-
-[Rainbow barf logo for SB](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
-
-## Klipper Estimator
-
-[Klipper estimator](https://github.com/Annex-Engineering/klipper_estimator)
-
-## Adaptive Bedmesh
-
-[Klippain](https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md)
-
-[KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
-
-## SS PLA Profile
-
-[Example](https://gist.githubusercontent.com/cmidgley/d6bb5e894def0794fa3e1f154e794aaa/raw/723e58910d8efdbd86f0f36f43d770f766422ba4/Voron%252024%2520SuperSlicer.ini)
-
-## PA per nozzle
-
-```
-; Set pressure advance per-filament for different nozzle sizes
-{if nozzle_diameter[0]==0.4}SET_PRESSURE_ADVANCE ADVANCE=0.04  SMOOTH_TIME=0.02
-{elsif nozzle_diameter[0]==0.5}SET_PRESSURE_ADVANCE ADVANCE=0.03 SMOOTH_TIME=0.02
-{elsif nozzle_diameter[0]==0.6}SET_PRESSURE_ADVANCE ADVANCE=0.01  SMOOTH_TIME=0.02
-{elsif nozzle_diameter[0]==0.8}SET_PRESSURE_ADVANCE ADVANCE=0.01 SMOOTH_TIME=0.02
-{endif}
-```
-
-## Extrusion roles - Fast Infill
-
-Discord Message [HERE](https://discord.com/channels/712144492563791922/712144816707731456/1080119195158708276)
-
-## Change KlipperScreen background
-
-[Blue hexes background](https://www.teamfdm.com/files/file/690-klipper-screen-blue-hexes/)
-
-
-# Yet TBD
-
-[Sushei DB mod](https://github.com/MakerBogans/dirtybird/tree/main/usermods/Sushei/Sushei's%20Version)
+See [HERE](/Klipper&Config.md)
 
 # $$$
 
 ## Cable Management
 
 [Rigid Open Slotted Cable Duct ](https://www.tradezone.com.au/product/nhp-25mm-x-30mm-x-2-metres-rigid-open-slotted-cable-duct-21104.html)
-
-[RaspPi camera cable](https://core-electronics.com.au/flex-cable-for-raspberry-pi-camera-300mm-12.html)
