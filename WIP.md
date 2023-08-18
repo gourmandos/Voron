@@ -1,6 +1,6 @@
 # WIP
 
-Nothing interesting here, just my own tracking.
+Just my own tracking, no public relevance.
 
 ## Physical mods
 

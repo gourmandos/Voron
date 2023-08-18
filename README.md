@@ -1,27 +1,15 @@
-# [WIP](/WIP.md)
+
+This repo is a collection of the info gathered in preparationa dn during the completion fo my built, hopefully it serves others.  
+As always, make your own choices - the Trident is a great machine in it's stock form, none of this is necessary.
+
 
 # [RESOURCES](/Resources.md)
 
+General stuff
 
+# [ACCESORIES & MODS](/ThingsToPrint.md)
 
-This is a collection of mods and info used for planning/completing my built.  
-Use at your own risk !!!
-
----
-
-# THINGS TO PRINT
-
-[Humidity Sensor Bracket](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/Danowar/Humidity_Sensor_Bracket)
-
-[Cutting jigs for Moroday panel insulation strips](/stl-3mf/Moroday%20cutting%20jigs/)  
-Works with Moroday EconoSeal and MultiSeal products (Bunnings)  
-Credits @jdndm#3948 on Discord
-
-[2020 mounted foldable spool holder](https://www.printables.com/model/341479-voron-24-trident-switchwire-foldable-spool-holder/)
-
-[Additional wagos mounts](https://github.com/LoganFraser/VoronMods/tree/main/WagoMounts)
-
----
+Things to print
 
 # TIPS
 
@@ -68,12 +56,6 @@ Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/t
 [270° hinges - Parametric](https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges)
 
 [Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
-
----
-
-## Frame reinforcement
-
-[Y Support](/stl-3mf/Trident_Y_support.3mf)  
 
 ---
 
@@ -218,16 +200,6 @@ Set the sensitivity to 10 minimum
 
 [BTT filament motion sensor mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount)
 
-## Spool in the chamber
-
-[Internal Spool Holder + Bowden Guide](https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/)
-
-## Temp control
-
-[Thermistor mount 2020](https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw)
-
-[Trident Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
-
 ## Extruder
 
 [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) - The issue 6/602 slayer
@@ -274,8 +246,10 @@ See [HERE](/RPi.md)
 
 See [HERE](/Klipper&Config.md)
 
-# $$$
+# Where to buy
 
 ## Cable Management
 
 [Rigid Open Slotted Cable Duct ](https://www.tradezone.com.au/product/nhp-25mm-x-30mm-x-2-metres-rigid-open-slotted-cable-duct-21104.html)
+
+## Steam activated charcoal
