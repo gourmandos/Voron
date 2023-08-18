@@ -39,7 +39,20 @@ V2.4 [Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Tes
 
 [Internal Spool Holder + Bowden Guide](https://www.teamfdm.com/files/file/619-trident-simple-internal-spool-holder-bowden-guide-60degrees-curved/)
 
+## Gridfinity
 
+[Goop pen clip](https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip)
+
+## Front idlers
+
+[Rama idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)  
+Necessary if upgrading the extruder to [DirtyBird](https://github.com/MakerBogans/dirtybird/)
+
+## 0.9 Motors AB
+
+VFAs management  
+[Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or AliExpress [Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)  
+Can be combined with [25 teeth pulleys](https://www.aliexpress.com/item/32994584651.html) (5mm bore / 6mm belt) - Settings to be checked!!!
 
 ---
 

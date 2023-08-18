@@ -11,6 +11,16 @@ General stuff
 
 Things to print
 
+# [ELECTRONICS](/Electronics.md)
+
+## [Wiring](/Electronics.md#wiring)
+
+# [RPI STUFF](/RPi.md)
+
+# [CONFIG STUFF](/Klipper&Config.md)
+
+# [WHERE TO BUY](/$$$.md)
+
 # TIPS
 
 Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281)
@@ -20,21 +30,6 @@ Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/
 ---
 
 # MODS
-
-## Rama idlers
-
-[Front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)  
-Necessary if upgrading the extruder to [DirtyBird](https://github.com/MakerBogans/dirtybird/)
-
----
-
-## 0.9 Motors AB
-
-VFAs management  
-[Moons MS17HA6P4200](https://www.moonsindustries.com/p/nema-17-high-precision-hybrid-stepper-motors/ms17ha6p4200-000004611110015926) or AliExpress [Moons MS17HA6P4200](https://www.aliexpress.com/item/4000378651911.html)  
-To be combined with [25 teeth pulleys](https://www.aliexpress.com/item/32994584651.html) (5mm bore / 6mm belt)
-
----
 
 ## Back panel exhaust
 
@@ -225,31 +220,3 @@ Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
 [Evermore](https://github.com/TodWulff/Evermore-Chamber-Filter)
 
 [MFNano](https://github.com/MapleLeafMakers/MFNano)
-
-## GoopPenClip
-
-[Gridfinity goop clip](https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip)
-
-# ELECTRONICS
-
-See [HERE](/Electronics.md)
-
-## Wiring
-
-See [HERE](/Electronics.md#wiring)
-
-# RPI STUFF
-
-See [HERE](/RPi.md)
-
-# CONFIG STUFF
-
-See [HERE](/Klipper&Config.md)
-
-# Where to buy
-
-## Cable Management
-
-[Rigid Open Slotted Cable Duct ](https://www.tradezone.com.au/product/nhp-25mm-x-30mm-x-2-metres-rigid-open-slotted-cable-duct-21104.html)
-
-## Steam activated charcoal
