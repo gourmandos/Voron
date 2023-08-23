@@ -14,6 +14,12 @@ Repo [HERE](https://github.com/protoloft/klipper_z_calibration)
 
 Repo [HERE](https://github.com/PrintStructor/A-better-print_start-macro)
 
+## Setup a BTT Smart Filament Sensor
+
+Set the sensitivity to 10 minimum
+
+[Setup a BTT Smart Filament Sensor](zhttps://docs.vorondesign.com/community/howto/samwiseg0/btt_smart_filament_sensor.html#setup-a-btt-smart-filament-sensor)
+
 ## LED
 
 [Rainbow barf logo for SB](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)

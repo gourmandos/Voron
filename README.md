@@ -119,6 +119,8 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 [Cable duct](https://github.com/GP3DS/Voron-Mods/tree/main/Cable_Duct)
 
+[Cable canal](https://www.thingiverse.com/thing:3062013)
+
 ---
 
 ## Skirts
@@ -184,8 +186,6 @@ Voron Trident - K3Z
 Credits to [GalvanicGlaze](https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide) & [top_gun_de](https://discord.com/channels/460117602945990666/635687829254701107/1026616435805519902) 
     
 ## Smart Filament Sensor
-
-Set the sensitivity to 10 minimum
 
 [Exhaust cover and BTT Smart Filament Sensor mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS)
 
