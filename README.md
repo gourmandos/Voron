@@ -105,7 +105,7 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 [Octopus Pro FanCase aka Octoglasses](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase)
 
 [Octopus driver cooling](/stl-3mf/Octopus%20driver%20cooling/)
-Credits to 
+Credits to BioShank (Discord)
 
 [Misumi Cable Clip](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip)
 
