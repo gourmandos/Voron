@@ -10,6 +10,8 @@
 
 [WireViz - easy documenting for cables, wiring harnesses and connector pinouts](https://github.com/formatc1702/WireViz)
 
+[Klipper Macros Beginners Guide](https://docs.vorondesign.com/community/howto/voidtrance/Klipper_Macros_Beginners_Guide.html)
+
 ---
 
 ## Bed adhesive / release agent
@@ -30,9 +32,15 @@ Quick formula for stepper motor maximum voltage:
 run_current = motor_peak_current * 0.707 * 0.80
 ```
 
-## Input Shaping / Resonance
+## Input Shaping / Resonance / Belt Tension
 
 [ResHelper](https://github.com/lhndo/ResHelper)
+
+[Interpreting the Input Shaper Graphs ](https://klipper.discourse.group/t/interpreting-the-input-shaper-graphs/9879)
+
+Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281)
+
+[Frequency testing](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
 
 ## Frequency Tester
 

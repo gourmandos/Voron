@@ -21,38 +21,14 @@ Things to print
 
 # [WHERE TO BUY](/$$$.md)
 
-# TIPS
-
-Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281)
-
-[Frequency testing](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
 
 ---
 
 # MODS
 
-## Back panel exhaust
+Microswitch Z Endstop
 
-[Magnetic Exhaust Grill Cover](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover)
-
-[Exhaust cover with pneumatic passthrough](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
-
-[LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf)  
-Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
-
----
-
-## Doors
-
-[K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
-
-[270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
-
-[270° hinges - Parametric](https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges)
-
-[Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
-
----
+[PCB Instructions / Design](https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop#microswitch-z-endstop-pcb) & [AliExpress](https://www.aliexpress.com/item/1005004113964706.html)
 
 ## Purge & Scrub
 
@@ -72,7 +48,26 @@ Credits @Sushei#3125 on Discord
 
 [Jig](/stl-3mf/Wiper_Jig.stl) for cutting the icetray made wiper.
 
----
+## Back panel exhaust
+
+[Magnetic Exhaust Grill Cover](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover)
+
+[Exhaust cover with pneumatic passthrough](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
+
+[LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf)  
+Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
+
+## Doors
+
+[K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
+
+[Clicky-Clack Fridge Dooor](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)
+
+[270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
+
+[270° hinges - Parametric](https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges)
+
+[Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
 
 ## Panel Clips
  
@@ -80,20 +75,14 @@ Credits @Sushei#3125 on Discord
 
 [Annex 2020 panel clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
 
----
-
 ## Handles
 
 [Sturdy handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
-
----
 
 ## Insulation support clips
 
 Used to hold insulation on the inside against the PC panels --- UNTESTED !!!  
 [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
-
----
 
 ## Electronic bay
 
@@ -115,13 +104,14 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 [Octopus Pro FanCase aka Octoglasses](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase)
 
+[Octopus driver cooling](/stl-3mf/Octopus%20driver%20cooling/)
+Credits to 
+
 [Misumi Cable Clip](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip)
 
 [Cable duct](https://github.com/GP3DS/Voron-Mods/tree/main/Cable_Duct)
 
 [Cable canal](https://www.thingiverse.com/thing:3062013)
-
----
 
 ## Skirts
 
@@ -133,14 +123,11 @@ Used to hold insulation on the inside against the PC panels --- UNTESTED !!!
 
 [Skirt push buttons - *Bouncy Mouse*](https://github.com/Jaans/Voron-Printer-Mods/tree/main/Bouncy-Mouse)
 
-
 ## Screen mount
 
 [Waveshare 5'' screen](/stl-3mf/Waveshare%205''%20screen.3mf)
 
 Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remixed from [sttts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED) & [Paul_GD](https://www.printables.com/model/178195-waveshare-5-dsi-touchscreen-for-bear-21)
-
----
 
 ## LEDs
 
@@ -156,15 +143,11 @@ Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remix
 
 [LED baffles](https://github.com/AdamV3D/V3D-Voron-Mods/tree/main/Daylight_on_a_Stick/Mounts/V2.4/V2)
 
----
-
 ## Doomy
 
 [Sidepack](https://github.com/3DPrintingMods/VoronTrident-Sidepack)
 
 [EZ Bake](https://github.com/FrankenVoron/Trident-EZBake)
-
----
 
 ## Belted Z
 
@@ -175,8 +158,6 @@ Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remix
 [VT Belted Z](https://github.com/MathematicalPotato/Voron_Mods/tree/main/VT_Belted_Z)
 
 Voron Trident - K3Z
-
----
 
 ## Filament guide
 
@@ -198,6 +179,8 @@ Credits to [GalvanicGlaze](https://github.com/GalvanicGlaze/Voron_Mods/tree/main
 ## Extruder
 
 [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) - The issue 6/602 slayer
+
+[Fixed Idler Sherpa Micro](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Micro/Extruder_Mods/Churls_Fixed_Idler_Micro)
 
 # ACCESORIES
 

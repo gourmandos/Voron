@@ -33,6 +33,7 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 - ~~Chamber thermistor~~
 - Air circulation
 - Air filtration
+- Driver cooling
 
 ---
 
@@ -40,23 +41,26 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 - LED diffusers
 - ~~Internal spool~~
 
----
-
-- Sensorless homing
-
----
-
 ## Electronics
 
 - ~~Pi Klipperscreen~~
-- Extrusion role for fast infill
-- Config autobackup
+- ~~Config autobackup~~
 - Nevermore if ABS...
 - Heatsoak macro
 - Skirt buttons (light 30% to 100%, up/down babystep, momentary ON/OFF, pause)
 
+## Klipper
+
+
+
 ## Potential
 
+- Insulation
+- Sensorless homing
+- Extrusion role for fast infill
 - [TAP DB](https://github.com/RustyWar85/DirtyBird-Tap-Cores)
-
 - AWD
+- Squash ball feet
+- 4040 frame
+- TRIDEX
+- Belted Z
