@@ -32,6 +32,10 @@ Instructions [HERE](https://github.com/sporkus/probe_accuracy_tests)
 
 [Rainbow barf logo for SB](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED)
 
+[LED Effects for Klipper](https://github.com/julianschill/klipper-led_effect)
+
+
+
 ## Klipper Estimator
 
 Repo [HERE](https://github.com/Annex-Engineering/klipper_estimator)

@@ -109,6 +109,8 @@ rotation_distance = 200 * 20mm / 100mm
 
 [Bioshank - Flow Test Tool](https://docs.google.com/spreadsheets/d/1owDOOfIYF0fXw-70wJZLp1kmjqjqEDme/edit#gid=2039809214)
 
+[Klippylyzer - Analyze your Klippy logs and more](https://github.com/Klippylyzer/klippylyzer#klippylyzer---analyze-your-klippy-logs-and-more)
+
 ---
 
 ## TROUBLESHOOTING
