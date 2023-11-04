@@ -24,8 +24,6 @@
 
 ## TMC driver tuning
 
-[DrGhetto's guide for Klipper](https://github.com/MakerBogans/docs/wiki/TMC-Driver-Tuning)
-
 Quick formula for stepper motor maximum voltage:
 
 ```
@@ -46,6 +44,10 @@ Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/
 
 Test a specific frequency that you hear when you do your resonance testing in Klipper.  
 Link [HERE](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
+
+## Spoolman
+
+Keep track of your inventory of 3D-printer filament spools, see [HERE](https://github.com/Donkie/Spoolman)
 
 ## SETUP
 

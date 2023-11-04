@@ -26,9 +26,9 @@ Things to print
 
 # MODS
 
-Microswitch Z Endstop
+Microswitch Z Endstop [GitHub Instructions / Design](https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop) & [AliExpress PCB](https://www.aliexpress.com/item/1005005223120516.html)
 
-[PCB Instructions / Design](https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop#microswitch-z-endstop-pcb) & [AliExpress](https://www.aliexpress.com/item/1005004113964706.html)
+[Printed top hat](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat)
 
 ## Purge & Scrub
 
@@ -158,6 +158,10 @@ Fits [5inch DSI LCD](https://www.waveshare.com/wiki/5inch_DSI_LCD) model - Remix
 [VT Belted Z](https://github.com/MathematicalPotato/Voron_Mods/tree/main/VT_Belted_Z)
 
 Voron Trident - K3Z
+
+## AWD
+
+[TridentAWD](https://github.com/Fuffledag22/TridentAWD)
 
 ## Filament guide
 

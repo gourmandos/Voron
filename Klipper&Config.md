@@ -6,12 +6,6 @@ Guide [HERE](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupCo
 
 Guide [here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F)
 
-## Driver temperature sensor - 2240
-
-Klipper example config [HERE](https://github.com/Klipper3d/klipper/pull/6210)
-
-Pull request info [HERE](https://github.com/Klipper3d/klipper/pull/6292)
-
 ## Sonar - network pinger
 
 Keep the WiFi connection alive by pinging at interval, instructions [HERE](https://github.com/mainsail-crew/sonar)
@@ -48,6 +42,12 @@ Repo [HERE](https://github.com/Annex-Engineering/klipper_estimator)
 
 [Klippain](https://github.com/Frix-x/klipper-voron-V2/blob/main/doc/features/adaptive_bed_mesh.md)
 
+## Driver Tuning
+
+[Klipper TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
+
+[DrGhetto's guide for Klipper](https://github.com/MakerBogans/docs/wiki/TMC-Driver-Tuning)
+
 ## Useful sets of macros
 
 [Ellis](https://ellis3dp.com/Print-Tuning-Guide/articles/index_useful_macros.html)
@@ -82,7 +82,3 @@ Change KlipperScreen background [Instructions](https://www.teamfdm.com/files/fil
 RPi BUSTER [Instructions](/other/Pi%20Buster%20KlipperScreen%20Instructions)
 
 No TouchScreen FIX [Instructions](/other/No%20touchscreen%20fix)
-
-## Spoolman
-
-Keep track of your inventory of 3D-printer filament spools, see [HERE](https://github.com/Donkie/Spoolman)
