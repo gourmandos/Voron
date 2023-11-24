@@ -24,14 +24,14 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 ---
 
 - Y support
-- K3 Door
+- ~~K3 Door~~
 - Panel clips
 
 ---
 
 - Purge bucket / scrubber
 - ~~Chamber thermistor~~
-- Air circulation
+- ~~Air circulation~~
 - Air filtration
 - Driver cooling
 
@@ -64,3 +64,8 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 - 4040 frame
 - TRIDEX
 - Belted Z
+- [Filametrix](https://github.com/sorted01/Filametrix) with TradRack
+
+## To be sorted
+
+[MEASURE_AXES_NOISE numpy error](https://www.reddit.com/r/klippers/comments/t7dfz0/measure_axes_noise_numpy_error/)
