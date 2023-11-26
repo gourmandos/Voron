@@ -86,3 +86,11 @@ Change KlipperScreen background [Instructions](https://www.teamfdm.com/files/fil
 RPi BUSTER [Instructions](/other/Pi%20Buster%20KlipperScreen%20Instructions)
 
 No TouchScreen FIX [Instructions](/other/No%20touchscreen%20fix)
+
+## TailScale
+
+Must add the IP of the device intending to connect with in Moonraker.conf
+
+[Source](https://www.teamfdm.com/forums/topic/1594-tailscale-vpn-and-mobile-raker/)
+
+[Example](https://github.com/ihrapsa/KlipperWrt/issues/21)
