@@ -12,6 +12,15 @@
 
 [Klipper Macros Beginners Guide](https://docs.vorondesign.com/community/howto/voidtrance/Klipper_Macros_Beginners_Guide.html)
 
+
+---
+
+## CAD
+
+[Voron Construct](https://github.com/PrintersForAnts/Voron-Construct)
+
+[Voron Construct Fusion 360 Add-In](https://github.com/MapleLeafMakers/VoronConstruct360)
+
 ---
 
 ## Bed adhesive / release agent
