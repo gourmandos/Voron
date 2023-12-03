@@ -26,7 +26,7 @@ Things to print
 
 # MODS
 
-Microswitch Z Endstop [GitHub Instructions / Design](https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop) & [AliExpress PCB](https://www.aliexpress.com/item/1005005223120516.html)
+[ADXL Nozzle mount](https://github.com/Armchair-Engineering/ADXL-Mounts)
 
 [Printed top hat](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat)
 
@@ -56,28 +56,6 @@ Credits @Sushei#3125 on Discord
 
 [LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf)  
 Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
-
-## Doors
-
-[K3 door](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/Redoubt/BeunHaas34-Annex_Door)
-
-[Clicky-Clack Fridge Dooor](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)
-
-[270° hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
-
-[270° hinges - Parametric](https://github.com/LoganFraser/VoronMods/tree/main/ParametricRemovable270Hinges)
-
-[Voron v2.2 quick release front panel](https://github.com/VoronDesign/Voron-2/tree/Voron2.2/STLs/VORON2.2/Panel_Mounting/Front_Panel_Quick_Release/Handles)
-
-## Panel Clips
- 
-[Snap latches 2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
-
-[Annex 2020 panel clips](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges)
-
-## Handles
-
-[Sturdy handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
 
 ## Insulation support clips
 

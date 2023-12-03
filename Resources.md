@@ -106,6 +106,8 @@ rotation_distance = 200 * 20mm / 100mm
 
 [Voron Design documentation](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html)
 
+[Finding the right StallGuard threshold](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html#finding-the-right-stallguard-threshold)
+
 ---
 
 ## CALIBRATION 
