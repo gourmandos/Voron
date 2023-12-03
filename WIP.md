@@ -69,3 +69,5 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 ## To be sorted
 
 [MEASURE_AXES_NOISE numpy error](https://www.reddit.com/r/klippers/comments/t7dfz0/measure_axes_noise_numpy_error/)
+
+[Sync PS profiles with GitHub](https://forum.prusa3d.com/forum/prusaslicer/prusa-slicer-cloud-settings-sync-settings-between-pcs/)
