@@ -34,8 +34,6 @@ Instructions [HERE](https://github.com/sporkus/probe_accuracy_tests)
 
 [LED Effects for Klipper](https://github.com/julianschill/klipper-led_effect)
 
-
-
 ## Klipper Estimator
 
 Repo [HERE](https://github.com/Annex-Engineering/klipper_estimator)
@@ -48,7 +46,8 @@ Repo [HERE](https://github.com/Annex-Engineering/klipper_estimator)
 
 ## Driver Tuning
 
-[Klipper TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
+[Klipper TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)  
+`WARNING` if sensorless homing, `sg4_thrs` and/or `sgt` values need to be readjusted
 
 [DrGhetto's guide for Klipper](https://github.com/MakerBogans/docs/wiki/TMC-Driver-Tuning)
 
@@ -89,8 +88,14 @@ No TouchScreen FIX [Instructions](/other/No%20touchscreen%20fix)
 
 ## TailScale
 
-Must add the IP of the device intending to connect with in Moonraker.conf
+For Mainsail: MUST add the IP of the device intending to connect with in Moonraker.conf
 
 [Source](https://www.teamfdm.com/forums/topic/1594-tailscale-vpn-and-mobile-raker/)
 
 [Example](https://github.com/ihrapsa/KlipperWrt/issues/21)
+
+## Syncing SS profiles
+
+[Youtube tutorial](https://www.youtube.com/watch?v=n_8kIZWBjhY&t=195s)
+
+add the `--datadir c:/my/local/dir` parameter to **SS.exe** shortcut

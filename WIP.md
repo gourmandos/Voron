@@ -51,7 +51,8 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 
 ## Klipper
 
-
+- Go over ALL the .cfg  
+Use official references such as [Sherpa_Micro](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/blob/main/Klipper_and_Klipper_Derivatives/Sherpa_Micro/Klipper_Config_Block.txt) when possible
 
 ## Potential
 

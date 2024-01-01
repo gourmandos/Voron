@@ -31,13 +31,17 @@
 
 ---
 
-## TMC driver tuning
+## TMC driver current
 
 Quick formula for stepper motor maximum voltage:
 
 ```
 run_current = motor_peak_current * 0.707 * 0.80
 ```
+
+## Automated probe accuracy testing
+
+A collection of tests to help checking probe accuracy, precision and drift under different conditions [HERE](https://github.com/sporkus/probe_accuracy_tests)
 
 ## Input Shaping / Resonance / Belt Tension
 
@@ -48,6 +52,8 @@ run_current = motor_peak_current * 0.707 * 0.80
 Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281)
 
 [Frequency testing](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
+
+[Klippain Shake&Tune Module](https://github.com/Frix-x/klippain-shaketune)
 
 ## Frequency Tester
 
@@ -60,7 +66,7 @@ Keep track of your inventory of 3D-printer filament spools, see [HERE](https://g
 
 ## SETUP
 
-### CanBUS
+### CanBUS / Katapult
 
 [How to Use CAN Toolhead Boards Connected Directly to Octopus](/other/How%20to%20Use%20CAN%20Toolhead%20Boards%20Connected%20Directly%20to%20Octopus.pdf)   -   Source [HERE](https://www.teamfdm.com/forums/topic/672-how-to-use-can-toolhead-boards-connected-directly-to-octopus-octopus-pro-on-canboot/)
 
@@ -88,6 +94,8 @@ rotation_distance = <previous_rotation_distance> * <actual_extrude_distance> / <
 
 rotation_distance = 200 * 20mm / 100mm
 ```
+
+### Misc
 ---
 
 [Chamber Temperature & Exhaust Fan](https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/chamber_temperature_exhaust_fan.md)
@@ -120,10 +128,12 @@ rotation_distance = 200 * 20mm / 100mm
 
 [Bioshank - Flow Test Tool](https://docs.google.com/spreadsheets/d/1owDOOfIYF0fXw-70wJZLp1kmjqjqEDme/edit#gid=2039809214)
 
-[Klippylyzer - Analyze your Klippy logs and more](https://github.com/Klippylyzer/klippylyzer#klippylyzer---analyze-your-klippy-logs-and-more)
+[Klippylyzer - Analyze your Klippy logs and more](https://klippylyzer.github.io/)  Github repo [HERE](https://github.com/Klippylyzer/klippylyzer#klippylyzer---analyze-your-klippy-logs-and-more)
+
 
 ---
 
 ## TROUBLESHOOTING
 
 In case of under-extrusion, check that the printer/slicer is in relative and not absolute. Add M83 in the slicer if not. See Discord message [HERE](https://discord.com/channels/712144492563791922/712144816707731456/1105794634652844042)
+

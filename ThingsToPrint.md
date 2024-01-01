@@ -1,3 +1,11 @@
+## 625 / F695 bearing repacker 
+
+[Revision 2.0](https://github.com/Annex-Engineering/Misc_Designs/tree/master/Bearing_Repacker/Release_2)
+
+## Extruder Calibration 
+
+[Annex E. Stick](https://github.com/Annex-Engineering/Misc_Designs/tree/master/Extruder_Calibration_Stick)
+
 ## Nozzle torque wrench
 
 [Option 1](https://www.thingiverse.com/thing:4738816)
@@ -40,6 +48,8 @@ V2.4 [Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Tes
 
 [Spool holder for "too close to the wall" printers](https://mods.vorondesign.com/detail/VjlccbeeOuH5iax4AFHA)
 
+[Horizontal Spool Holder](https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ)
+
 ## Gridfinity
 
 [Goop pen clip](https://github.com/MakerBogans/BoganParts/tree/main/killcode/GoopPenClip)
@@ -49,6 +59,10 @@ V2.4 [Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Tes
 Necessary if upgrading the extruder to [DirtyBird](https://github.com/MakerBogans/dirtybird/)
 
 [BFI - Beefy Front Idlers](https://github.com/clee/VoronBFI)
+
+## Trident Pins Mod
+
+Replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins [HERE](https://mods.vorondesign.com/detail/C8XJJ0fBGfBFKQZctjKeA)
 
 ## Doors
 

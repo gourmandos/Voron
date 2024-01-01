@@ -48,7 +48,9 @@ Credits @Sushei#3125 on Discord
 
 [Jig](/stl-3mf/Wiper_Jig.stl) for cutting the icetray made wiper.
 
-## Back panel exhaust
+[Voron Trident Silicone Nozzle Park](https://github.com/Esoterical/PrinterMods/tree/main/Trident%20Nozzle%20Park)
+
+## Exhaust
 
 [Magnetic Exhaust Grill Cover](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover)
 
@@ -56,6 +58,8 @@ Credits @Sushei#3125 on Discord
 
 [LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf)  
 Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
+
+[Exhaust Adapter 100mm](https://mods.vorondesign.com/detail/nKx3H8zQ6brp42wN5cgA)
 
 ## Insulation support clips
 
@@ -141,6 +145,9 @@ Voron Trident - K3Z
 
 [TridentAWD](https://github.com/Fuffledag22/TridentAWD)
 
+
+[Voron v2.4 AWD Mod](https://docs.atinyshellscript.com/v2.4/awd/#nema17-bearing-idler-stacks)
+
 ## Filament guide
 
 [Through panel with 360° joint](https://github.com/DeBau/VoronMods/tree/main/Top%20Bowden%20Guide)
@@ -149,6 +156,8 @@ Voron Trident - K3Z
 Credits to [GalvanicGlaze](https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide) & [top_gun_de](https://discord.com/channels/460117602945990666/635687829254701107/1026616435805519902) 
     
 ## Smart Filament Sensor
+
+[SFS V2.0 Pivot Mount](https://www.thingiverse.com/thing:6275328)
 
 [Exhaust cover and BTT Smart Filament Sensor mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover_SFS)
 
@@ -174,6 +183,11 @@ Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
 
 > Credits to `UPDATE`
 
+[Nevermore Micro v6](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V6)  
+>Community nods available `TO BE UPDATED`
+
+[Nevermore StealthMax](https://github.com/nevermore3d/StealthMax) with [direct-mount onto a panel](https://github.com/nevermore3d/StealthMax/tree/main/STL/Direct-On-Panel_Mount#direct-mount-a-stealthmax-onto-any-panel)
+
 [Rebreather](https://github.com/Annex-Engineering/Rebreather)
 
 [The_Filter](https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER)
@@ -185,3 +199,21 @@ Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
 [Evermore](https://github.com/TodWulff/Evermore-Chamber-Filter)
 
 [MFNano](https://github.com/MapleLeafMakers/MFNano)
+
+## Dust & purge management
+
+[Z-Motor cover](https://www.teamfdm.com/files/file/555-z-motor-cover-trident/?tab=details)
+
+[2020 profile covers](https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q)
+
+[6mm slot cover](https://mods.vorondesign.com/detail/ZKJgu7OwMNB1xAKRrYSYeg)
+
+## MMU
+
+[TradRack](https://github.com/Annex-Engineering/TradRack)
+
+[piKa - filament buffer](https://github.com/geoffrey-young/pika-filament-buffer)
+
+## Cam
+
+[Angry CAM USB](https://mods.vorondesign.com/detail/RYpQW53mtem8Nj1JKqiSQ)
