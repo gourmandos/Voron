@@ -94,8 +94,14 @@ For Mainsail: MUST add the IP of the device intending to connect with in Moonrak
 
 [Example](https://github.com/ihrapsa/KlipperWrt/issues/21)
 
-## Syncing SS profiles
+## Syncing slicer profiles
+
+**SUPERSLICER**
 
 [Youtube tutorial](https://www.youtube.com/watch?v=n_8kIZWBjhY&t=195s)
 
 add the `--datadir c:/my/local/dir` parameter to **SS.exe** shortcut
+
+**PRUSASLICER**
+
+Tutorial [HERE](https://adambyram.com/2023/01/29/syncing-prusaslicer-configuration/)
