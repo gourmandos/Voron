@@ -1,3 +1,7 @@
+## Ellis BedFans macro
+
+Guide [HERE](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
+
 ## Back up printer configuration files to GitHub
 
 Guide [HERE](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html) & alternate guide [HERE](https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper)
