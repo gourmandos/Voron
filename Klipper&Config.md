@@ -9,6 +9,7 @@ Guide [here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-ch
 ## Sonar - network pinger
 
 Keep the WiFi connection alive by pinging at interval, instructions [HERE](https://github.com/mainsail-crew/sonar)
+Included in Mainsail OS - just remember to change the ```enable:``` option to **TRUE**
 
 ## Auto Z Calibration
 
