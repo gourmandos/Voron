@@ -114,3 +114,12 @@ add the `--datadir c:/my/local/dir` parameter to **SS.exe** shortcut
 **PRUSASLICER**
 
 Tutorial [HERE](https://adambyram.com/2023/01/29/syncing-prusaslicer-configuration/)
+
+## Thermistor Heatsink Failsafe
+
+```
+[temperature_sensor Heatsink_failsafe]
+sensor_type: Generic 3950
+sensor_pin: expander:PA5
+max_temp: 85
+```
