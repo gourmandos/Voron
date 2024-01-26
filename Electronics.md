@@ -36,7 +36,6 @@ You also can spin the motor by hand, and short pairs until it stalls. Then you k
 
 [GitHub Instructions / Design](https://github.com/VoronDesign/Voron-Hardware/tree/master/Microswitch_Z_Endstop) & [AliExpress PCB](https://www.aliexpress.com/item/1005005223120516.html)
 
-
 ## JST XH Fan Splitter
 
 2 pins JST XH splitter 4 ways [here](/other/XH-Splitter_gerbers.zip)

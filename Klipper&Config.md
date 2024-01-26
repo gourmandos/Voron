@@ -2,6 +2,10 @@
 
 Guide [HERE](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
 
+## PID controlled bed fans
+
+Guide [HERE](/other/PID%20controlled%20bed%20fans.md)
+
 ## Back up printer configuration files to GitHub
 
 Guide [HERE](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html) & alternate guide [HERE](https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper)
