@@ -1,6 +1,50 @@
-## PWM Fan on GPIO
+## Cooling
 
-Guide [HERE](https://forums.raspberrypi.com/viewtopic.php?t=194621)
+PWM Fan on GPIO guide [HERE](https://forums.raspberrypi.com/viewtopic.php?t=194621)
+
+**ALTERNATIVELY**: Comment out
+
+```
+[temperature_sensor RPi]
+sensor_type: temperature_host
+
+[temperature_sensor MCU]
+sensor_type: temperature_mcu
+```
+
+And add
+
+```
+[temperature_fan RPi_Fan] 
+pin: POPULATE THE CORRECT PIN
+max_power: 1.0
+shutdown_speed: 1.0
+kick_start_time: 0.2
+off_below: 0.15
+cycle_time: 0.010
+sensor_type: temperature_host
+control: watermark
+min_temp: 0
+max_temp: 70
+target_temp: 40.0
+min_speed: 0.5
+
+[temperature_fan MCU_Fan] 
+pin: POPULATE THE CORRECT PIN
+max_power: 1.0
+shutdown_speed: 1.0
+kick_start_time: 0.2
+off_below: 0.15
+cycle_time: 0.010
+sensor_type: temperature_mcu
+control: watermark
+min_temp: 0
+max_temp: 70
+target_temp: 35.0
+min_speed: 0.5
+```
+
+Tmeperatures will remained displayed and the fans are controlled by temperature 
 
 ## Momentary switch ON/OFF
 

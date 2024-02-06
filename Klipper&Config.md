@@ -1,3 +1,7 @@
+## Temperature monitoring and chamber exhaust
+
+Guide [HERE](https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/chamber_temperature_exhaust_fan.md)
+
 ## Ellis BedFans macro
 
 Guide [HERE](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
@@ -26,6 +30,10 @@ Repo [HERE](https://github.com/protoloft/klipper_z_calibration)
 ## A better print_start macro
 
 Repo [HERE](https://github.com/PrintStructor/A-better-print_start-macro)
+
+## Interruptible HEATSOAK macro
+
+[ReadMe](https://github.com/garethky/klipper-voron2.4-config/blob/mainline/printer_data/config/heatsoak.readme.md)
 
 ## Setup a BTT Smart Filament Sensor
 
@@ -56,7 +64,7 @@ Repo [HERE](https://github.com/Annex-Engineering/klipper_estimator)
 ## Driver Tuning
 
 [Klipper TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)  
-`WARNING` if sensorless homing, `sg4_thrs` and/or `sgt` values need to be readjusted
+***WARNING*** if sensorless homing, `sg4_thrs` and/or `sgt` values need to be readjusted
 
 [DrGhetto's guide for Klipper](https://github.com/MakerBogans/docs/wiki/TMC-Driver-Tuning)
 
@@ -103,6 +111,8 @@ For Mainsail: MUST add the IP of the device intending to connect with in Moonrak
 
 [Example](https://github.com/ihrapsa/KlipperWrt/issues/21)
 
+Alternatively, try [MobileRaker](https://github.com/Clon1998/mobileraker)
+
 ## Syncing slicer profiles
 
 **SUPERSLICER**
@@ -123,3 +133,7 @@ sensor_type: Generic 3950
 sensor_pin: expander:PA5
 max_temp: 85
 ```
+
+**OR**
+
+[Hotend Fan RPM Monitoring](https://ellis3dp.com/Print-Tuning-Guide/articles/useful_macros/hotend_fan_monitoring.html)

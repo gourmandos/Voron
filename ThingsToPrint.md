@@ -36,9 +36,11 @@ V2.4 [Test prints](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs/Tes
 
 [Trident Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/CannedBass/Trident_Bed_Fans)
 
-## Frame reinforcement
+## Frame
 
-[Y Support](/stl-3mf/Trident_Y_support.3mf)
+[Y Support braces](/stl-3mf/Trident_Y_support.3mf)
+
+[Trident Gantry Micro Adjuster](https://github.com/Diyshift/3D-Printer/tree/main/Trident%20Gantry%20Micro%20Adjuster)
 
 ## Spool management
 

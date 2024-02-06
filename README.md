@@ -143,8 +143,9 @@ Voron Trident - K3Z
 
 ## AWD
 
-[TridentAWD](https://github.com/Fuffledag22/TridentAWD)
+[Fourbie](https://github.com/MakerBogans/Fourbie)
 
+[TridentAWD](https://github.com/Fuffledag22/TridentAWD)
 
 [Voron v2.4 AWD Mod](https://docs.atinyshellscript.com/v2.4/awd/#nema17-bearing-idler-stacks)
 
@@ -217,3 +218,7 @@ Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
 ## Cam
 
 [Angry CAM USB](https://mods.vorondesign.com/detail/RYpQW53mtem8Nj1JKqiSQ)
+
+## CPAP Muffler 
+
+[Mammoth design](https://github.com/Mammoth-3D/Mammoth-FDM-MODs/tree/main/Mammoth%20CPAP%20Muffler/Voron%203D%20Printers)
