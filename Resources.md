@@ -12,6 +12,7 @@
 
 [Klipper Macros Beginners Guide](https://docs.vorondesign.com/community/howto/voidtrance/Klipper_Macros_Beginners_Guide.html)
 
+[Klipper calcualtor - Calculating anything Klipper](http://docs.zerog.one/universal/klippercalculator)
 
 ---
 

@@ -10,6 +10,11 @@ Guide [HERE](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/
 
 Guide [HERE](/other/PID%20controlled%20bed%20fans.md)
 
+## Replace M109/M190 With TEMPERATURE_WAIT
+
+This just makes Klipper resume immediately after reaching temp. Otherwise it waits for the temperature to stabilize.
+Guide [HERE](/other/PID%20controlled%20bed%20fans.md)
+
 ## Back up printer configuration files to GitHub
 
 Guide [HERE](https://docs.vorondesign.com/community/howto/EricZimmerman/BackupConfigToGithub.html) & alternate guide [HERE](https://lazarofilm.gitbook.io/3d-printing/creating-a-github-backup-for-klipper)

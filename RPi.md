@@ -44,7 +44,7 @@ target_temp: 35.0
 min_speed: 0.5
 ```
 
-Tmeperatures will remained displayed and the fans are controlled by temperature 
+Tmeperatures will remain displayed as standard and the fans are now temperature triggered
 
 ## Momentary switch ON/OFF
 
