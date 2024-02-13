@@ -54,12 +54,16 @@ Credits @Sushei#3125 on Discord
 
 [Magnetic Exhaust Grill Cover](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/falo/magnetic_grill_cover)
 
+[VEFACH - Voron Exhaust Filter Activated Coal + Hepa](https://mods.vorondesign.com/detail/aLS5rOxzGybD4FhVzCKNQ)
+
+[Exhaust Adapter 100mm](https://mods.vorondesign.com/detail/nKx3H8zQ6brp42wN5cgA)
+
 [Exhaust cover with pneumatic passthrough](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/Exhaust_cover)
 
 [LDO exhaust cover](/stl-3mf/LDO_exhaust_cover.3mf)  
 Source: [LDO Trident repo](https://github.com/MotorDynamicsLab/LDOVoronTrident/tree/master/STLs/Angled%20Exhaust%20Cover)
 
-[Exhaust Adapter 100mm](https://mods.vorondesign.com/detail/nKx3H8zQ6brp42wN5cgA)
+[Roomba 800/900 HEPA Filter Box](https://www.teamfdm.com/files/file/740-voron-24-roomba-800900-hepa-filter-box/)
 
 ## Insulation support clips
 
@@ -218,6 +222,8 @@ Trident mount [HERE](/stl-3mf/Rebreather%20XL/)
 ## Cam
 
 [Angry CAM USB](https://mods.vorondesign.com/detail/RYpQW53mtem8Nj1JKqiSQ)
+
+[Modified PanzerObserver from Slidr](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera)
 
 ## CPAP Muffler 
 

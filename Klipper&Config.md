@@ -142,3 +142,9 @@ max_temp: 85
 **OR**
 
 [Hotend Fan RPM Monitoring](https://ellis3dp.com/Print-Tuning-Guide/articles/useful_macros/hotend_fan_monitoring.html)
+
+## Talking Voron
+
+This is a procedure to have audio files to play throughout your macros. 
+
+Guide [HERE](https://github.com/maclakey/Voron2.4-Mods/tree/main/Talking_Voron)
