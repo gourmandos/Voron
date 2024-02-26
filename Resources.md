@@ -46,15 +46,15 @@ A collection of tests to help checking probe accuracy, precision and drift under
 
 ## Input Shaping / Resonance / Belt Tension
 
-[ResHelper](https://github.com/lhndo/ResHelper)
+[Klippain Shake&Tune Module](https://github.com/Frix-x/klippain-shaketune)
 
 [Interpreting the Input Shaper Graphs ](https://klipper.discourse.group/t/interpreting-the-input-shaper-graphs/9879)
+
+[ResHelper](https://github.com/lhndo/ResHelper)
 
 Use Klipper to tension the belts, Discord message [HERE](https://discordapp.com/channels/712144492563791922/712144816707731456/1099543025836892281)
 
 [Frequency testing](https://gist.github.com/kmobs/f6def5db272ca5c1b81727482f53bed8)
-
-[Klippain Shake&Tune Module](https://github.com/Frix-x/klippain-shaketune)
 
 ## Frequency Tester
 
@@ -69,11 +69,11 @@ Keep track of your inventory of 3D-printer filament spools, see [HERE](https://g
 
 ### CanBUS / Katapult
 
+[Esoterical guide](https://github.com/Esoterical/voron_canbus)
+
 [How to Use CAN Toolhead Boards Connected Directly to Octopus](/other/How%20to%20Use%20CAN%20Toolhead%20Boards%20Connected%20Directly%20to%20Octopus.pdf)   -   Source [HERE](https://www.teamfdm.com/forums/topic/672-how-to-use-can-toolhead-boards-connected-directly-to-octopus-octopus-pro-on-canboot/)
 
 [maz0r guide](https://maz0r.github.io/klipper_canbus/)
-
-[Esoterical guide](https://github.com/Esoterical/voron_canbus)
 
 [USB to CAN bus bridge mode](https://www.klipper3d.org/CANBUS.html#usb-to-can-bus-bridge-mode)
 
@@ -103,7 +103,7 @@ rotation_distance = 200 * 20mm / 100mm
 
 [Filament Runout Sensor](https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/filament_runout_sensor.md)
 
-[Fast infill](https://github.com/RomRider/klipper-FastGyroidInfill)
+[Fast gyroid infill](https://github.com/RomRider/klipper-FastGyroidInfill)
 
 ---
 

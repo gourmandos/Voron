@@ -2,9 +2,15 @@
 
 Guide [HERE](https://github.com/eddietheengineer/VoronDocs/blob/master/setup/additional/chamber_temperature_exhaust_fan.md)
 
-## Ellis BedFans macro
+## Ellis  macros
 
-Guide [HERE](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
+[Bed_Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
+
+[Temperature_Wait](https://ellis3dp.com/Print-Tuning-Guide/articles/useful_macros/replace_m109_m190_with_temp_wait.html)
+
+[Determining Maximum Speeds and Accelerations](https://ellis3dp.com/Print-Tuning-Guide/articles/determining_max_speeds_accels.html)
+
+
 
 ## PID controlled bed fans
 

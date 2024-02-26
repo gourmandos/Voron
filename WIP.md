@@ -23,22 +23,22 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 
 ---
 
-- Y support
+- ~~Y support~~
 - ~~K3 Door~~
-- Panel clips
+- ~~Panel clips~~
 
 ---
 
 - Purge bucket / scrubber
 - ~~Chamber thermistor~~
-- ~~Air circulation~~
+- Air circulation
 - Air filtration
 - Driver cooling
 
 ---
 
 - ~~LED~~
-- LED diffusers
+- ~~LED diffusers~~
 - ~~Internal spool~~
 
 ## Electronics
@@ -54,16 +54,20 @@ Alternatively, use [bearing swivels](https://github.com/MakerBogans/roadkill/tre
 - Go over ALL the .cfg  
 Use official references such as [Sherpa_Micro](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/blob/main/Klipper_and_Klipper_Derivatives/Sherpa_Micro/Klipper_Config_Block.txt) when possible
 
+- Virtual Z Endstop:
+(When using the probe as the Z endstop)
+
+    Enter ``Z_OFFSET_APPLY_PROBE*``
+    This will apply your new offset to your probe’s z_offset.  
+    Enter ``SAVE_CONFIG``.
+
+
 ## Potential
 
 - Insulation
-- Sensorless homing
-- Extrusion role for fast infill
-- [TAP DB](https://github.com/RustyWar85/DirtyBird-Tap-Cores)
 - AWD
 - Squash ball feet
 - 4040 frame
-- TRIDEX
 - Belted Z
 - [Filametrix](https://github.com/sorted01/Filametrix) with TradRack
 
