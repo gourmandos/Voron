@@ -54,12 +54,13 @@ Connect a switch between PIN 5 (GPIO 3) and 6 (ground) for ON/OFF deep sleep fun
 sudo nano /boot/config.txt
 ```
 
-Add the following above the **ALL** section
+Add the following above the **ALL** section at the very end
 
 ```
 dtoverlay=gpio-shutdown
 ```
 
+If the Rpi turns ON but not OFF when pressing the push button, try this [solution](https://www.machinistblog.com/raspberry-pi-gpio-power-switch-not-working-solved/)
 ---
 
 [GPIO 21 & various shutdown behaviours script](https://github.com/maz0r/rpi-shutdown)
