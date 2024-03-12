@@ -99,6 +99,10 @@ Credits to BioShank (Discord)
 
 [Cable canal](https://www.thingiverse.com/thing:3062013)
 
+[Remix of RyanDam's Cable Management Duct](https://www.teamfdm.com/files/file/724-remix-of-ryandams-cable-management-duct-for-voron-printers/)
+
+
+
 ## Skirts
 
 [Integrated accent mesh](https://www.youtube.com/watch?v=K6sHfXldK4k)
@@ -151,7 +155,9 @@ Voron Trident - K3Z
 
 [TridentAWD](https://github.com/Fuffledag22/TridentAWD)
 
-[Voron v2.4 AWD Mod](https://docs.atinyshellscript.com/v2.4/awd/#nema17-bearing-idler-stacks)
+aTinyShellScript Voron v2.4 AWD [Mod](https://docs.atinyshellscript.com/v2.4/awd/#nema17-bearing-idler-stacks)
+
+Modified version of aTinyShellScript's AWD [MOD](https://mpx.wiki/VORON-AWD-2WD-MOD/intro)
 
 ## Filament guide
 

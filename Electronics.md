@@ -43,3 +43,8 @@ You also can spin the motor by hand, and short pairs until it stalls. Then you k
 Credits to [xbst](https://github.com/xbst/Random-PCBs/tree/master)
 
 [Tutorial for designing a PCB](https://www.circuitbasics.com/make-custom-pcb/)
+
+## Additional PwM fans board
+
+[TinyFan](https://github.com/Gi7mo/TinyFan)
+

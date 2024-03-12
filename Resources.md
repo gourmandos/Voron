@@ -12,7 +12,9 @@
 
 [Klipper Macros Beginners Guide](https://docs.vorondesign.com/community/howto/voidtrance/Klipper_Macros_Beginners_Guide.html)
 
-[Klipper calcualtor - Calculating anything Klipper](http://docs.zerog.one/universal/klippercalculator)
+[Klipper calculator - Calculating anything Klipper](http://docs.zerog.one/universal/klippercalculator)
+
+[Flow Rate Calculator](https://www.advanced3dprinting.com/flow-rate-calculator/)
 
 ---
 
